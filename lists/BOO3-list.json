@@ -1,0 +1,3101 @@
+﻿[
+    {
+        "card_name": "Aberetta Shield",
+        "number": 21,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Abyssal Wobli",
+        "number": 67,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Afterlife Punisher",
+        "number": 114,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "\u00c6therslinger",
+        "number": 162,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "Aerial Superiority",
+        "number": 210,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "Adrift in the Aether",
+        "number": 22,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Become {Un}Lost",
+        "number": 68,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Ana Iora",
+        "number": 115,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "359"
+    },
+    {
+        "card_name": "All is Tinder",
+        "number": 163,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Ahn-Duroo, Man of the Mists",
+        "number": 211,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "278"
+    },
+    {
+        "card_name": "Ambosht, City's Foundation",
+        "number": 23,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "287"
+    },
+    {
+        "card_name": "Bewitching Serenade",
+        "number": 69,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Archpriest of Culling",
+        "number": 116,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "294"
+    },
+    {
+        "card_name": "Allied Pyromancy",
+        "number": 164,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Ake & Ke'an, Colossal Duo",
+        "number": 212,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Angel of Reprisal",
+        "number": 24,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "331"
+    },
+    {
+        "card_name": "Box of Phanstasms",
+        "number": 70,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Avatar of Death",
+        "number": 117,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Arcane Attendant",
+        "number": 165,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "319"
+    },
+    {
+        "card_name": "Anti-Authorosaurus",
+        "number": 213,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "ASCII C4tz",
+        "number": 25,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "309"
+    },
+    {
+        "card_name": "Burglar of the Bourgeois",
+        "number": 71,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "B45 \u2014 Exilius, Void Thrall",
+        "number": 118,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "336"
+    },
+    {
+        "card_name": "Archer Comrade",
+        "number": 166,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Audience With Nature",
+        "number": 214,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Call for a Hero",
+        "number": 26,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Clyclonic Elemental",
+        "number": 72,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "Bessyl, Vaul's Protige",
+        "number": 119,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Baptism of Draconic Ichor",
+        "number": 167,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Baloth Matriarch",
+        "number": 215,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Coilmaster Ringmaster",
+        "number": 27,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Conniving Obfusaur",
+        "number": 73,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "292"
+    },
+    {
+        "card_name": "Bitter Words",
+        "number": 120,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Blasphemy",
+        "number": 168,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "Banana Vendor",
+        "number": 216,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Courting Courchevelia",
+        "number": 28,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Cornucopia Utopia",
+        "number": 74,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Black Masquerade",
+        "number": 121,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Chaotic Wrapper",
+        "number": 169,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "BF-Class Sniper Rifle",
+        "number": 217,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "Daiyu, of Three Houses",
+        "number": 29,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Cunning Courtier",
+        "number": 75,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "334"
+    },
+    {
+        "card_name": "Blackleaf Cultist",
+        "number": 122,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Consuming Wildfire",
+        "number": 170,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Call of the Verdant Hunt",
+        "number": 218,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Discerning Hoarder",
+        "number": 30,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Deathsatyr Neophyte",
+        "number": 76,
+        "shape": "saga",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Bloodied Alliance",
+        "number": 123,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Crackling Titan",
+        "number": 171,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Centaur Skirmisher",
+        "number": 219,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Divine Interventionist",
+        "number": 31,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Decline",
+        "number": 77,
+        "shape": "aftermath",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Bloodthirsty Leadbeast",
+        "number": 124,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Diabolic Instigator",
+        "number": 172,
+        "shape": "leveler split",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Choice of the Woods",
+        "number": 220,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Don't Let it End",
+        "number": 32,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "Essence of Nothing",
+        "number": 78,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Buried Darlings",
+        "number": 125,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Echos of Flameteaching",
+        "number": 173,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "Collective Perseverance",
+        "number": 221,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "Dungeon Delve",
+        "number": 33,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Frilled Striker",
+        "number": 79,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "Concentric Return",
+        "number": 126,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Fifth Floor Mage",
+        "number": 174,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Conformant Huntsman",
+        "number": 222,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "259"
+    },
+    {
+        "card_name": "Electoral Officer",
+        "number": 34,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Gatekeep",
+        "number": 80,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Corruption Killer",
+        "number": 127,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Flushed Capyiary",
+        "number": 175,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Cull-Beast Channeler",
+        "number": 223,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Enlightened by Nyx",
+        "number": 35,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Grizwold, Phantasmal Druid",
+        "number": 81,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Creation's Rage",
+        "number": 128,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Gaimontov's Pageburners",
+        "number": 176,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "Dark-Matter Chromasaur",
+        "number": 224,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "340"
+    },
+    {
+        "card_name": "Exchanger Courtiurge",
+        "number": 36,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "288"
+    },
+    {
+        "card_name": "Insightful Alliance",
+        "number": 82,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Cut Up",
+        "number": 129,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Gangnam Style",
+        "number": 177,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Daydream Realized",
+        "number": 225,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Frontline Vanguard",
+        "number": 37,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "Introspection",
+        "number": 83,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Demon of Chronology",
+        "number": 130,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Gaslight",
+        "number": 178,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Democratized Tyrant",
+        "number": 226,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "Ghost Shield",
+        "number": 38,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "Isila, Portal Mage",
+        "number": 84,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "Demon of the Ringing Bell",
+        "number": 131,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Geothermal Magmasaur",
+        "number": 179,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "Denaturalize",
+        "number": 227,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Gubbug, Paladindrome",
+        "number": 39,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Keeper of the Abecedaria",
+        "number": 85,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "Don't Mine At Night",
+        "number": 132,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Goblin Bomb Squad",
+        "number": 180,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "338"
+    },
+    {
+        "card_name": "Destined Champion",
+        "number": 228,
+        "shape": "modal double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Immortalize in Stone",
+        "number": 40,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "Keeper of the Restricted",
+        "number": 86,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "271"
+    },
+    {
+        "card_name": "Dream Swindler",
+        "number": 133,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Harmonize Crystallize",
+        "number": 181,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Divisible Gel",
+        "number": 229,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "280"
+    },
+    {
+        "card_name": "Indecisive Outfitter",
+        "number": 41,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "290"
+    },
+    {
+        "card_name": "Mama Bird",
+        "number": 87,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Dynasty Overseer",
+        "number": 134,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "273"
+    },
+    {
+        "card_name": "The Hellhound",
+        "number": 182,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "Embrace the Wilds",
+        "number": 230,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Inspiring Virtuoso",
+        "number": 42,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Masterminding",
+        "number": 88,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Feast of Rotting Brains",
+        "number": 135,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Hot Chicken",
+        "number": 183,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "276"
+    },
+    {
+        "card_name": "Farseeker",
+        "number": 231,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "Kitewing Companion",
+        "number": 43,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Mbe Pag-ong, Lord of the Deep",
+        "number": 89,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "Fourth Floor Mage",
+        "number": 136,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "Iaridh's Vengeance",
+        "number": 184,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "G47 \u2014 Personal Retreat",
+        "number": 232,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "341"
+    },
+    {
+        "card_name": "May I Have This Dance?",
+        "number": 44,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "Naritive Fracture",
+        "number": 90,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Gift of Decay",
+        "number": 137,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Illicit Markets",
+        "number": 185,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Garden Philanthropist",
+        "number": 233,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Mystical Menagerie",
+        "number": 45,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "An Ode to Dusk",
+        "number": 91,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Golden-Scale Gorgon",
+        "number": 138,
+        "shape": "saga",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Inspirational Alliance",
+        "number": 186,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Geisterblitzer Commando",
+        "number": 234,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "Myxomitosis",
+        "number": 46,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Ogmog the Space Frog",
+        "number": 92,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": true,
+        "position": "148"
+    },
+    {
+        "card_name": "Grave Wanderer",
+        "number": 139,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "Magic Incarnate",
+        "number": 187,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Heinous Flytrap",
+        "number": 235,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Necrotheistic Catechism",
+        "number": 47,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Political Riddler",
+        "number": 93,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Guild Master Facade",
+        "number": 140,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Matchlight Spellweaver",
+        "number": 188,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Heir Presumptive",
+        "number": 236,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Nestlings",
+        "number": 48,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Public Hearing",
+        "number": 94,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "Junkyard Enthusiast",
+        "number": 141,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Moira von Bael, Supersonic",
+        "number": 189,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "Koiotemyona of the Pond",
+        "number": 237,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Oblivion Alliance",
+        "number": 49,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Pull Back the Curtain",
+        "number": 95,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "Keeper of the Silent Citadel",
+        "number": 142,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Opening Performance",
+        "number": 190,
+        "shape": "saga",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Loamplate Ankylosaurus",
+        "number": 238,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "300"
+    },
+    {
+        "card_name": "Out to Pasture",
+        "number": 50,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "333"
+    },
+    {
+        "card_name": "Reach Deep",
+        "number": 96,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Killer's Tell",
+        "number": 143,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Overthrowing Riot",
+        "number": 191,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Might of Nature",
+        "number": 239,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Psychic Angel",
+        "number": 51,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "Scheming Spectre",
+        "number": 97,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Lieu's Interrogation",
+        "number": 144,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Plagarist's Seal",
+        "number": 192,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "Off-Duty Janitor",
+        "number": 240,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Quantity Over Quality",
+        "number": 52,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Sewn Shut",
+        "number": 98,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Mr. Endelgauss, Profiteer General",
+        "number": 145,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "Property is Theft",
+        "number": 193,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "277"
+    },
+    {
+        "card_name": "Ooze with Potential",
+        "number": 241,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "Second Floor Mage",
+        "number": 53,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Shieldmage Field Officer",
+        "number": 99,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Murder Trial",
+        "number": 146,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Questing Zerdana",
+        "number": 194,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Pako, Playful Mosspup",
+        "number": 242,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "Self Defense Training",
+        "number": 54,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Sonder",
+        "number": 100,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Rimepelt Packmate",
+        "number": 147,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "R24 \u2014 Surprise Jackal!",
+        "number": 195,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Plump Kingslayer",
+        "number": 243,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Selfish Sire",
+        "number": 55,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Spellshaper's Reversal",
+        "number": 101,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Secret Service",
+        "number": 148,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "R29 \u2014 Angle of Attack",
+        "number": 196,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Renewed Growth",
+        "number": 244,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Senatorial Speaker",
+        "number": 56,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Stolen Seconds",
+        "number": 102,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Shambling Corpse",
+        "number": 149,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "R43 \u2014 Overexert",
+        "number": 197,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Reyjin, Prismatic Philosopher",
+        "number": 245,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Shirefield Shepherd",
+        "number": 57,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Storm Drake",
+        "number": 103,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Shorthand Initiate",
+        "number": 150,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "337"
+    },
+    {
+        "card_name": "Roadside Apotheosis",
+        "number": 198,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Savannah Ram",
+        "number": 246,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Shunpo Adept",
+        "number": 58,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Supernatural Espionage",
+        "number": 104,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Smuggling Techneque",
+        "number": 151,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "Sage of Thermodynamics",
+        "number": 199,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Say Goodbye to Spring",
+        "number": 247,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "323"
+    },
+    {
+        "card_name": "Skyclave Line-Slinger",
+        "number": 59,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Think Again",
+        "number": 105,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Soul Assimilator",
+        "number": 152,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Service Dog",
+        "number": 200,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Search for Overmorrow",
+        "number": 248,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "Stand Against the Tide",
+        "number": 60,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "291"
+    },
+    {
+        "card_name": "Third Floor Mage",
+        "number": 106,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "Soul-Infused Butcher",
+        "number": 153,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Spectral Searcher",
+        "number": 201,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Sidra, the Python",
+        "number": 249,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "342"
+    },
+    {
+        "card_name": "String of Arrests",
+        "number": 61,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "269"
+    },
+    {
+        "card_name": "Tide Rider",
+        "number": 107,
+        "shape": "class",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Stalking Hassmaske",
+        "number": 154,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "Super Chaos Warp",
+        "number": 202,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Sixth Floor Mage",
+        "number": 250,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "Systematic Incubation",
+        "number": 62,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Vrnkjkt, Potential Mage",
+        "number": 108,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Succumb to Sacrilege",
+        "number": 155,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "295"
+    },
+    {
+        "card_name": "Sword of Storm and Sunder",
+        "number": 203,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Sonomance Expon",
+        "number": 251,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Timely Platoon",
+        "number": 63,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Walker of Time",
+        "number": 109,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Super Booster Tutor",
+        "number": 156,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Taleless Traitor",
+        "number": 204,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "The Spirit of Cartography",
+        "number": 252,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Trade Enforcer",
+        "number": 64,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Warping Lance",
+        "number": 110,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "314"
+    },
+    {
+        "card_name": "Taj, Living Malignancy",
+        "number": 157,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Terra Elemental",
+        "number": 205,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Territorial Dispute",
+        "number": 253,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "Tyrannical Ruler",
+        "number": 65,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Wave of Whimsy",
+        "number": 111,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "The Trial of the Heart",
+        "number": 158,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Thunderous Charge",
+        "number": 206,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "Tharo, Leyline Puppeteer",
+        "number": 254,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "Tyrant of the Broken Seals",
+        "number": 66,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Wilted Intellectual",
+        "number": 112,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Trophy Kill",
+        "number": 159,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Velocidragster",
+        "number": 207,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Trenchrunner Ceratops",
+        "number": 255,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yunne, the Starblessed",
+        "number": 113,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Umbral Strength",
+        "number": 160,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "Volcanic Bruiser",
+        "number": 208,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Viral Replication",
+        "number": 161,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Warwise Retrofitter",
+        "number": 209,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "299"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Aminatou, Many-Fated",
+        "number": 256,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Demon of Darkest Illusions",
+        "number": 264,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Anointed Tombship",
+        "number": 257,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Mesmoth",
+        "number": 276,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "344"
+    },
+    {
+        "card_name": "Charming Menagerie",
+        "number": 260,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "Fabricated Real",
+        "number": 266,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Leyline of Lost Memories",
+        "number": 274,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "343"
+    },
+    {
+        "card_name": "Greedy Dungeon-Delver",
+        "number": 268,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Styla, the Radical Tide",
+        "number": 296,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "285"
+    },
+    {
+        "card_name": "Now We Know Our ABCs!",
+        "number": 279,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "Lobbied Legislator",
+        "number": 275,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Rebellious Outcrier",
+        "number": 288,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Random Loot Drop",
+        "number": 287,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Yovan, Imposing Challenger",
+        "number": 299,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Pheldagrif, Returned Quester",
+        "number": 281,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Quick Visit",
+        "number": 284,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "346"
+    },
+    {
+        "card_name": "Fragment Memories",
+        "number": 301,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Season of Destruction",
+        "number": 291,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Bosko, Surprise Contestant",
+        "number": 300,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "Rabbit Ritual",
+        "number": 304,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Prestidigitation",
+        "number": 303,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Game Has Changed",
+        "number": 267,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "Radiance Rekindled",
+        "number": 285,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Hazel, Master Forager",
+        "number": 269,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Hazoret, the God-Survivor",
+        "number": 270,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Bringer of Evolution",
+        "number": 259,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Strixhaven Socialite",
+        "number": 295,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Ral, Controlled Storm",
+        "number": 286,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Insanity Amplifier",
+        "number": 271,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Nebula Lion",
+        "number": 278,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "345"
+    },
+    {
+        "card_name": "Explore the Omenpaths",
+        "number": 265,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "William Shakespeare",
+        "number": 298,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Sirun, Vizier of the God-Pharaoh",
+        "number": 292,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "Poxia, Pestilent Pin-up",
+        "number": 283,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "Soulfire Staff",
+        "number": 293,
+        "shape": "adventure",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Permutation Regurgitation",
+        "number": 280,
+        "shape": "saga",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Garden of Life",
+        "number": 305,
+        "shape": "fuse split",
+        "set": "BOO3",
+        "rotated": true,
+        "position": "159"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Persist Through Pestilence",
+        "number": 302,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "Venture Onward",
+        "number": 306,
+        "shape": "fuse split",
+        "set": "BOO3",
+        "rotated": true,
+        "position": "221"
+    },
+    {
+        "card_name": "Rockjaw Rising",
+        "number": 290,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kalmos Valorseeker",
+        "number": 272,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "Methri, Cruel Usurper",
+        "number": 277,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Dawngale, the Crimson Sky",
+        "number": 263,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "Combat Instructor",
+        "number": 262,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Stoic Angel",
+        "number": 294,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tumult",
+        "number": 297,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "347"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kid, Quickshot Captain",
+        "number": 273,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Chiss, Tangle Transmuter",
+        "number": 261,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Phelddagrif's Assistance",
+        "number": 282,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Aquatior, The Seas as One",
+        "number": 258,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "Rise of the Gamma Queen",
+        "number": 289,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "263"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Allegiant Oath",
+        "number": 1,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "329"
+    },
+    {
+        "card_name": "Chronomatic Skyscape",
+        "number": 2,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Codex, the Secret Hand",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "Coutier's Gambit",
+        "number": 4,
+        "shape": "transform double faced",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "358"
+    },
+    {
+        "card_name": "Extraplanar Operative",
+        "number": 5,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "Forbidden Pact",
+        "number": 6,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Glacial Awakening",
+        "number": 7,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Grasping Ephemeration",
+        "number": 8,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Hushed Whispers",
+        "number": 9,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Janah, Her Own Worst Enemy",
+        "number": 10,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Lethal Inheritance",
+        "number": 11,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Null Pointer",
+        "number": 12,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Origin of the Spark",
+        "number": 13,
+        "shape": "saga",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Riddlestrix",
+        "number": 14,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Second Act",
+        "number": 15,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "Secret Alliance",
+        "number": 16,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Shocking Reanimation",
+        "number": 17,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Silent Poltergeist",
+        "number": 18,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Sovereign's Stratagem",
+        "number": 19,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "308"
+    },
+    {
+        "card_name": "Traiterous Hobbyism",
+        "number": 20,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Automated Authority",
+        "number": 307,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "Bloodied Dagger",
+        "number": 308,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Collapse Traveler",
+        "number": 309,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "Explosive Leylith",
+        "number": 311,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Extraction Cage",
+        "number": 312,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "The Farland Tome",
+        "number": 313,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Gadgeteer Auctioneer",
+        "number": 314,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Lore Seeker",
+        "number": 315,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "327"
+    },
+    {
+        "card_name": "Makeshift Configuration",
+        "number": 316,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Maladapted Multi-Tool",
+        "number": 317,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "Omenpath Wanderer",
+        "number": 318,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Scrapyard Bartender",
+        "number": 319,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Scuttler Drone",
+        "number": 320,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Seer of Fates",
+        "number": 321,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Sphinx Delegate",
+        "number": 322,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Spilling Happenstance",
+        "number": 323,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Symbiotic Starship",
+        "number": 324,
+        "shape": "leveler",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Termination Construct",
+        "number": 325,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Landscape Vault",
+        "number": 332,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Arboreal Nymph",
+        "number": 328,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "328"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Airborn Stronghold",
+        "number": 327,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Metropolis of Darkness",
+        "number": 337,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Metropolis of Blood",
+        "number": 335,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Abandoned Stronghold",
+        "number": 326,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Metropolis of Life",
+        "number": 341,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Metropolis of Frost",
+        "number": 340,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Remote Crevasse",
+        "number": 349,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "350"
+    },
+    {
+        "card_name": "Molten Stronghold",
+        "number": 345,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Metropolis of Fire",
+        "number": 339,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Remote Cabin",
+        "number": 347,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "348"
+    },
+    {
+        "card_name": "Remote Glacier",
+        "number": 351,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "352"
+    },
+    {
+        "card_name": "Rotten Stronghold",
+        "number": 357,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Remote Volcano",
+        "number": 356,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "357"
+    },
+    {
+        "card_name": "Remote Ridge",
+        "number": 354,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "355"
+    },
+    {
+        "card_name": "Venerable Stronghold",
+        "number": 360,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Metropolis of Bone",
+        "number": 336,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Cleaveland",
+        "number": 330,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Metropolis of Death",
+        "number": 338,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Arid Stronghold",
+        "number": 329,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Lush Stronghold",
+        "number": 333,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Remote Ruins",
+        "number": 355,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "356"
+    },
+    {
+        "card_name": "Mechanical Stronghold",
+        "number": 334,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Nefarious Stronghold",
+        "number": 346,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Metropolis of Light",
+        "number": 342,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Metropolis of Water",
+        "number": 344,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Ruinous Stronghold",
+        "number": 358,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Metropolis of Thunder",
+        "number": 343,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Remote Mausoleum",
+        "number": 352,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "353"
+    },
+    {
+        "card_name": "Remote Fortress",
+        "number": 350,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "351"
+    },
+    {
+        "card_name": "Remote Monument",
+        "number": 353,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "354"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Remote Coast",
+        "number": 348,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "349"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Exploration Installation",
+        "number": 310,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Ilythr\u00e6, City of Peace",
+        "number": 331,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Secluded Beach",
+        "number": 359,
+        "shape": "normal",
+        "set": "BOO3",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

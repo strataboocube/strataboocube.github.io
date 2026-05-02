@@ -1,0 +1,4028 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Lethal Inheritance",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/0.png"
+			}
+		},
+		{
+			"name": "Enlightened by Nyx",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/1.png"
+			}
+		},
+		{
+			"name": "Kitewing Companion",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Ally Mount",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/2.png"
+			}
+		},
+		{
+			"name": "Selfish Sire",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/3.png"
+			}
+		},
+		{
+			"name": "Shirefield Shepherd",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/4.png"
+			}
+		},
+		{
+			"name": "Gatekeep",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/5.png"
+			}
+		},
+		{
+			"name": "An Ode to Dusk",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/6_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/6_front.png"
+			}
+		},
+		{
+			"name": "Scheming Spectre",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit Rogue Advisor",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/7.png"
+			}
+		},
+		{
+			"name": "Yunne, the Starblessed",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Alien Whale God",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/8.png"
+			}
+		},
+		{
+			"name": "Keeper of the Silent Citadel",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dragon Horror Knight",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Trial of the Heart",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/10.png"
+			}
+		},
+		{
+			"name": "Gaslight",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/11.png"
+			}
+		},
+		{
+			"name": "Sword of Storm and Sunder",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/12.png"
+			}
+		},
+		{
+			"name": "Taleless Traitor",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/13.png"
+			}
+		},
+		{
+			"name": "Cull-Beast Channeler",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/14.png"
+			}
+		},
+		{
+			"name": "Embrace the Wilds",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/15.png"
+			}
+		},
+		{
+			"name": "Reyjin, Prismatic Philosopher",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Dragon Druid",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/16.png"
+			}
+		},
+		{
+			"name": "Bringer of Evolution",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/17.png"
+			}
+		},
+		{
+			"name": "Hazoret, the God-Survivor",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/18.png"
+			}
+		},
+		{
+			"name": "Gadgeteer Auctioneer",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Citizen",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/19.png"
+			}
+		},
+		{
+			"name": "Symbiotic Starship",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment Spacecraft Vehicle",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/20.png"
+			}
+		},
+		{
+			"name": "Glacial Awakening",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/21.png"
+			}
+		},
+		{
+			"name": "Adrift in the Aether",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/22_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/22_front.png"
+			}
+		},
+		{
+			"name": "Daiyu, of Three Houses",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Angel Noble",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/23.png"
+			}
+		},
+		{
+			"name": "Shunpo Adept",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/24.png"
+			}
+		},
+		{
+			"name": "Bewitching Serenade",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/25.png"
+			}
+		},
+		{
+			"name": "Box of Phanstasms",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/26.png"
+			}
+		},
+		{
+			"name": "Decline",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Arcane",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/27.png"
+			}
+		},
+		{
+			"name": "Shieldmage Field Officer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dragon Soldier Wizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/28.png"
+			}
+		},
+		{
+			"name": "Bitter Words",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/29.png"
+			}
+		},
+		{
+			"name": "Dream Swindler",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Nightmare Warlock",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/30.png"
+			}
+		},
+		{
+			"name": "Rimepelt Packmate",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Wolf",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/31.png"
+			}
+		},
+		{
+			"name": "Soul Assimilator",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dragon Warlock",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/32.png"
+			}
+		},
+		{
+			"name": "Trophy Kill",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/33.png"
+			}
+		},
+		{
+			"name": "Baptism of Draconic Ichor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/34.png"
+			}
+		},
+		{
+			"name": "Matchlight Spellweaver",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Squirrel Wizard",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/35.png"
+			}
+		},
+		{
+			"name": "Questing Zerdana",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox Knight",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/36.png"
+			}
+		},
+		{
+			"name": "Sage of Thermodynamics",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/37.png"
+			}
+		},
+		{
+			"name": "Call of the Verdant Hunt",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Kindred Enchantment — Wolf",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/38.png"
+			}
+		},
+		{
+			"name": "Daydream Realized",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/39.png"
+			}
+		},
+		{
+			"name": "The Spirit of Cartography",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/40.png"
+			}
+		},
+		{
+			"name": "Anointed Tombship",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/41.png"
+			}
+		},
+		{
+			"name": "Secret Alliance",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/42.png"
+			}
+		},
+		{
+			"name": "Oblivion Alliance",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/43.png"
+			}
+		},
+		{
+			"name": "Senatorial Speaker",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/44.png"
+			}
+		},
+		{
+			"name": "Insightful Alliance",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/45.png"
+			}
+		},
+		{
+			"name": "Masterminding",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/46.png"
+			}
+		},
+		{
+			"name": "Political Riddler",
+			"rarity": "special",
+			"mana_cost": "{8}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/47.png"
+			}
+		},
+		{
+			"name": "Walker of Time",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/48.png"
+			}
+		},
+		{
+			"name": "Wilted Intellectual",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Horror",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/49.png"
+			}
+		},
+		{
+			"name": "Bloodied Alliance",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/50.png"
+			}
+		},
+		{
+			"name": "Demon of Chronology",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/51.png"
+			}
+		},
+		{
+			"name": "Demon of the Ringing Bell",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/52.png"
+			}
+		},
+		{
+			"name": "Feast of Rotting Brains",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/53.png"
+			}
+		},
+		{
+			"name": "Allied Pyromancy",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/54.png"
+			}
+		},
+		{
+			"name": "Inspirational Alliance",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/55.png"
+			}
+		},
+		{
+			"name": "Spectral Searcher",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/56.png"
+			}
+		},
+		{
+			"name": "Demon of Darkest Illusions",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/57.png"
+			}
+		},
+		{
+			"name": "Explosive Leylith",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/58.png"
+			}
+		},
+		{
+			"name": "Cleaveland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact [Land]",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/59.png"
+			}
+		},
+		{
+			"name": "Landscape Vault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/60.png"
+			}
+		},
+		{
+			"name": "Metropolis of Blood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/61.png"
+			}
+		},
+		{
+			"name": "Metropolis of Bone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/62.png"
+			}
+		},
+		{
+			"name": "Metropolis of Darkness",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/63.png"
+			}
+		},
+		{
+			"name": "Metropolis of Death",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/64.png"
+			}
+		},
+		{
+			"name": "Metropolis of Fire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/65.png"
+			}
+		},
+		{
+			"name": "Metropolis of Frost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/66.png"
+			}
+		},
+		{
+			"name": "Metropolis of Life",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/67.png"
+			}
+		},
+		{
+			"name": "Metropolis of Light",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/68.png"
+			}
+		},
+		{
+			"name": "Metropolis of Thunder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/69.png"
+			}
+		},
+		{
+			"name": "Metropolis of Water",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/70.png"
+			}
+		},
+		{
+			"name": "Janah, Her Own Worst Enemy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Vanguard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/71.png"
+			}
+		},
+		{
+			"name": "Tyrannical Ruler",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/72_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/72_front.png"
+			}
+		},
+		{
+			"name": "Grizwold, Phantasmal Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Planeswalker — Grizwold",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/73.png"
+			}
+		},
+		{
+			"name": "Corruption Killer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Assassin",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/74.png"
+			}
+		},
+		{
+			"name": "Don't Mine At Night",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/75.png"
+			}
+		},
+		{
+			"name": "Gift of Decay",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/76.png"
+			}
+		},
+		{
+			"name": "Soul-Infused Butcher",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Demon Construct",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/77.png"
+			}
+		},
+		{
+			"name": "Super Booster Tutor",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/78.png"
+			}
+		},
+		{
+			"name": "Viral Replication",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/79.png"
+			}
+		},
+		{
+			"name": "Consuming Wildfire",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/80.png"
+			}
+		},
+		{
+			"name": "Crackling Titan",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/81.png"
+			}
+		},
+		{
+			"name": "Diabolic Instigator",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Battle Creature — Boss Demon",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/82.png"
+			}
+		},
+		{
+			"name": "Gangnam Style",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/83.png"
+			}
+		},
+		{
+			"name": "Overthrowing Riot",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/84.png"
+			}
+		},
+		{
+			"name": "Super Chaos Warp",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/85.png"
+			}
+		},
+		{
+			"name": "Plump Kingslayer",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/86.png"
+			}
+		},
+		{
+			"name": "Greedy Dungeon-Delver",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Kobold Pirate",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/87.png"
+			}
+		},
+		{
+			"name": "Methri, Cruel Usurper",
+			"rarity": "special",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/88.png"
+			}
+		},
+		{
+			"name": "Random Loot Drop",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/89.png"
+			}
+		},
+		{
+			"name": "Abandoned Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/90.png"
+			}
+		},
+		{
+			"name": "Airborn Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/91.png"
+			}
+		},
+		{
+			"name": "Arid Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/92.png"
+			}
+		},
+		{
+			"name": "Lush Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/93.png"
+			}
+		},
+		{
+			"name": "Mechanical Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/94.png"
+			}
+		},
+		{
+			"name": "Molten Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/95.png"
+			}
+		},
+		{
+			"name": "Nefarious Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/96.png"
+			}
+		},
+		{
+			"name": "Rotten Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/97.png"
+			}
+		},
+		{
+			"name": "Ruinous Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/98.png"
+			}
+		},
+		{
+			"name": "Venerable Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/99.png"
+			}
+		},
+		{
+			"name": "Dungeon Delve",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery — Omen",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/100.png"
+			}
+		},
+		{
+			"name": "Self Defense Training",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Instant — Lesson",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/101.png"
+			}
+		},
+		{
+			"name": "Naritive Fracture",
+			"rarity": "special",
+			"mana_cost": "{3}{U/P}",
+			"type": "Instant — Lesson",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/102.png"
+			}
+		},
+		{
+			"name": "Spellshaper's Reversal",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Kindred Instant — Spellshaper",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/103.png"
+			}
+		},
+		{
+			"name": "Stolen Seconds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/104.png"
+			}
+		},
+		{
+			"name": "Vrnkjkt, Potential Mage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Homunculus Spellshaper",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/105.png"
+			}
+		},
+		{
+			"name": "Guild Master Facade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Conspiracy",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/106.png"
+			}
+		},
+		{
+			"name": "Shambling Corpse",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/107.png"
+			}
+		},
+		{
+			"name": "Chaotic Wrapper",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast Rogue",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/108.png"
+			}
+		},
+		{
+			"name": "Illicit Markets",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/109.png"
+			}
+		},
+		{
+			"name": "Service Dog",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Attraction Dog Soldier",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/110.png"
+			}
+		},
+		{
+			"name": "Centaur Skirmisher",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/111.png"
+			}
+		},
+		{
+			"name": "Denaturalize",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/112.png"
+			}
+		},
+		{
+			"name": "Destined Champion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/113_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/113_front.png"
+			}
+		},
+		{
+			"name": "Pheldagrif, Returned Quester",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Phelddagrif",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/114.png"
+			}
+		},
+		{
+			"name": "Phelddagrif's Assistance",
+			"rarity": "special",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Kindred — Phelddagrif",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/115.png"
+			}
+		},
+		{
+			"name": "Radiance Rekindled",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/116.png"
+			}
+		},
+		{
+			"name": "Sphinx Delegate",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Sphinx Child",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/117.png"
+			}
+		},
+		{
+			"name": "Ilythræ, City of Peace",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/118.png"
+			}
+		},
+		{
+			"name": "Grasping Ephemeration",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Creature — Illusion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/119.png"
+			}
+		},
+		{
+			"name": "Hushed Whispers",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/120.png"
+			}
+		},
+		{
+			"name": "Shocking Reanimation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/121.png"
+			}
+		},
+		{
+			"name": "Silent Poltergeist",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Creature — Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/122.png"
+			}
+		},
+		{
+			"name": "Divine Interventionist",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/123.png"
+			}
+		},
+		{
+			"name": "Systematic Incubation",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/124.png"
+			}
+		},
+		{
+			"name": "Mama Bird",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/125.png"
+			}
+		},
+		{
+			"name": "Reach Deep",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/126.png"
+			}
+		},
+		{
+			"name": "Afterlife Punisher",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/127.png"
+			}
+		},
+		{
+			"name": "Cut Up",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/128.png"
+			}
+		},
+		{
+			"name": "Archer Comrade",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/129.png"
+			}
+		},
+		{
+			"name": "Harmonize Crystallize",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/130.png"
+			}
+		},
+		{
+			"name": "Choice of the Woods",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/131.png"
+			}
+		},
+		{
+			"name": "Off-Duty Janitor",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Citizen Knight",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/132.png"
+			}
+		},
+		{
+			"name": "Bloodied Dagger",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/133.png"
+			}
+		},
+		{
+			"name": "Collapse Traveler",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Nomad Construct",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/134.png"
+			}
+		},
+		{
+			"name": "Extraction Cage",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/135.png"
+			}
+		},
+		{
+			"name": "Makeshift Configuration",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/136.png"
+			}
+		},
+		{
+			"name": "Scrapyard Bartender",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/137.png"
+			}
+		},
+		{
+			"name": "Scuttler Drone",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Insect",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/138.png"
+			}
+		},
+		{
+			"name": "Seer of Fates",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/139.png"
+			}
+		},
+		{
+			"name": "Origin of the Spark",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/140.png"
+			}
+		},
+		{
+			"name": "Traiterous Hobbyism",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/141.png"
+			}
+		},
+		{
+			"name": "Electoral Officer",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/142.png"
+			}
+		},
+		{
+			"name": "Inspiring Virtuoso",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/143.png"
+			}
+		},
+		{
+			"name": "Mystical Menagerie",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/144.png"
+			}
+		},
+		{
+			"name": "Necrotheistic Catechism",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant — Lesson",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/145.png"
+			}
+		},
+		{
+			"name": "Tyrant of the Broken Seals",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/146.png"
+			}
+		},
+		{
+			"name": "Essence of Nothing",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Illusion",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/147.png"
+			}
+		},
+		{
+			"name": "Ogmog the Space Frog",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Alien Frog",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/148.png"
+			}
+		},
+		{
+			"name": "Bessyl, Vaul's Protige",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Troll Berserker",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/149.png"
+			}
+		},
+		{
+			"name": "Black Masquerade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/150.png"
+			}
+		},
+		{
+			"name": "Junkyard Enthusiast",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/151.png"
+			}
+		},
+		{
+			"name": "Murder Trial",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Kindred Sorcery — Assassin or Detective",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/152.png"
+			}
+		},
+		{
+			"name": "Taj, Living Malignancy",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Thrull",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/153.png"
+			}
+		},
+		{
+			"name": "Magic Incarnate",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery — Arcane",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/154.png"
+			}
+		},
+		{
+			"name": "Ake & Ke'an, Colossal Duo",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Dinosaur",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/155.png"
+			}
+		},
+		{
+			"name": "Banana Vendor",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Monkey Attraction",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/156.png"
+			}
+		},
+		{
+			"name": "Kid, Quickshot Captain",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Planeswalker — Kid",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/157.png"
+			}
+		},
+		{
+			"name": "Strixhaven Socialite",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/158.png"
+			}
+		},
+		{
+			"name": "Garden of Life",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Room",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/159.png"
+			}
+		},
+		{
+			"name": "Exploration Installation",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Lander Fortification",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/160.png"
+			}
+		},
+		{
+			"name": "Chronomatic Skyscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/161.png"
+			}
+		},
+		{
+			"name": "Riddlestrix",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Creature — Bird",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/162.png"
+			}
+		},
+		{
+			"name": "Aberetta Shield",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/163.png"
+			}
+		},
+		{
+			"name": "Call for a Hero",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/164.png"
+			}
+		},
+		{
+			"name": "Gubbug, Paladindrome",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/165.png"
+			}
+		},
+		{
+			"name": "Nestlings",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/166.png"
+			}
+		},
+		{
+			"name": "Abyssal Wobli",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Jellyfish Demon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/167.png"
+			}
+		},
+		{
+			"name": "Storm Drake",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Drake",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/168.png"
+			}
+		},
+		{
+			"name": "Think Again",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/169.png"
+			}
+		},
+		{
+			"name": "Blackleaf Cultist",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/170.png"
+			}
+		},
+		{
+			"name": "R24 — Surprise Jackal!",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Jackal Rogue",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/171.png"
+			}
+		},
+		{
+			"name": "R29 — Angle of Attack",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/172.png"
+			}
+		},
+		{
+			"name": "R43 — Overexert",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/173.png"
+			}
+		},
+		{
+			"name": "Terra Elemental",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/174.png"
+			}
+		},
+		{
+			"name": "Baloth Matriarch",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/175.png"
+			}
+		},
+		{
+			"name": "Heinous Flytrap",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider Mutant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/176.png"
+			}
+		},
+		{
+			"name": "Savannah Ram",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/177.png"
+			}
+		},
+		{
+			"name": "Sonomance Expon",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/178.png"
+			}
+		},
+		{
+			"name": "Chiss, Tangle Transmuter",
+			"rarity": "special",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/179.png"
+			}
+		},
+		{
+			"name": "Rebellious Outcrier",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Rebel",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/180.png"
+			}
+		},
+		{
+			"name": "Rockjaw Rising",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/181.png"
+			}
+		},
+		{
+			"name": "Null Pointer",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Mana Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/182.png"
+			}
+		},
+		{
+			"name": "Coilmaster Ringmaster",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Snake Performer",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/183.png"
+			}
+		},
+		{
+			"name": "Courting Courchevelia",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Snake Construct",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/184.png"
+			}
+		},
+		{
+			"name": "May I Have This Dance?",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/185.png"
+			}
+		},
+		{
+			"name": "Myxomitosis",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Rabbit Shapeshifter",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/186.png"
+			}
+		},
+		{
+			"name": "Cornucopia Utopia",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "World Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/187.png"
+			}
+		},
+		{
+			"name": "Deathsatyr Neophyte",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Saga Goat Sorcerer",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/188.png"
+			}
+		},
+		{
+			"name": "Introspection",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/189.png"
+			}
+		},
+		{
+			"name": "Sewn Shut",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/190.png"
+			}
+		},
+		{
+			"name": "Sonder",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/191.png"
+			}
+		},
+		{
+			"name": "Buried Darlings",
+			"rarity": "special",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Reflection",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/192.png"
+			}
+		},
+		{
+			"name": "Killer's Tell",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/193.png"
+			}
+		},
+		{
+			"name": "Flushed Capyiary",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Capybara Bird",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/194.png"
+			}
+		},
+		{
+			"name": "Opening Performance",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/195.png"
+			}
+		},
+		{
+			"name": "Roadside Apotheosis",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/196.png"
+			}
+		},
+		{
+			"name": "Anti-Authorosaurus",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dinosaur Skeleton",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/197.png"
+			}
+		},
+		{
+			"name": "Heir Presumptive",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/198.png"
+			}
+		},
+		{
+			"name": "Koiotemyona of the Pond",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Beast Avatar",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/199.png"
+			}
+		},
+		{
+			"name": "Fabricated Real",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "World Enchantment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/200.png"
+			}
+		},
+		{
+			"name": "Permutation Regurgitation",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/201.png"
+			}
+		},
+		{
+			"name": "Spilling Happenstance",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/202.png"
+			}
+		},
+		{
+			"name": "Discerning Hoarder",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/203.png"
+			}
+		},
+		{
+			"name": "Quantity Over Quality",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/204.png"
+			}
+		},
+		{
+			"name": "Skyclave Line-Slinger",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Kor Warrior",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/205.png"
+			}
+		},
+		{
+			"name": "Frilled Striker",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Salamander Warrior",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/206.png"
+			}
+		},
+		{
+			"name": "Tide Rider",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Sorcerer",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/207.png"
+			}
+		},
+		{
+			"name": "Avatar of Death",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Avatar",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/208.png"
+			}
+		},
+		{
+			"name": "Concentric Return",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/209.png"
+			}
+		},
+		{
+			"name": "Golden-Scale Gorgon",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Saga Gorgon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/210.png"
+			}
+		},
+		{
+			"name": "All is Tinder",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/211.png"
+			}
+		},
+		{
+			"name": "Velocidragster",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur Mount",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/212.png"
+			}
+		},
+		{
+			"name": "Volcanic Bruiser",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Berserker",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/213.png"
+			}
+		},
+		{
+			"name": "Audience With Nature",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/214.png"
+			}
+		},
+		{
+			"name": "Garden Philanthropist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Frog Druid",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/215.png"
+			}
+		},
+		{
+			"name": "Tharo, Leyline Puppeteer",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Treefolk Druid",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/216.png"
+			}
+		},
+		{
+			"name": "Aminatou, Many-Fated",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/217.png"
+			}
+		},
+		{
+			"name": "Insanity Amplifier",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/218.png"
+			}
+		},
+		{
+			"name": "William Shakespeare",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/219.png"
+			}
+		},
+		{
+			"name": "Yovan, Imposing Challenger",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/220.png"
+			}
+		},
+		{
+			"name": "Venture Onward",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery — Adventure",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/221.png"
+			}
+		},
+		{
+			"name": "Termination Construct",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/222.png"
+			}
+		},
+		{
+			"name": "Secluded Beach",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/223.png"
+			}
+		},
+		{
+			"name": "Forbidden Pact",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/224.png"
+			}
+		},
+		{
+			"name": "Second Floor Mage",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/225.png"
+			}
+		},
+		{
+			"name": "Trade Enforcer",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/226.png"
+			}
+		},
+		{
+			"name": "Become {Un}Lost",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Instant — Omen",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/227.png"
+			}
+		},
+		{
+			"name": "Third Floor Mage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/228.png"
+			}
+		},
+		{
+			"name": "Fourth Floor Mage",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Snake Warlock",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/229.png"
+			}
+		},
+		{
+			"name": "Fifth Floor Mage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Goat Sorcerer",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/230.png"
+			}
+		},
+		{
+			"name": "Might of Nature",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/231.png"
+			}
+		},
+		{
+			"name": "Renewed Growth",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/232.png"
+			}
+		},
+		{
+			"name": "Sixth Floor Mage",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Orc Druid",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/233.png"
+			}
+		},
+		{
+			"name": "Combat Instructor",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Cat Advisor",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/234.png"
+			}
+		},
+		{
+			"name": "Explore the Omenpaths",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "265",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/235_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/235_front.png"
+			}
+		},
+		{
+			"name": "Hazel, Master Forager",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Squirrel Druid",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/236.png"
+			}
+		},
+		{
+			"name": "Lobbied Legislator",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Dragon Advisor",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/237.png"
+			}
+		},
+		{
+			"name": "Ral, Controlled Storm",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Ral",
+			"collector_number": "286",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/238_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/238_front.png"
+			}
+		},
+		{
+			"name": "Season of Destruction",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/239.png"
+			}
+		},
+		{
+			"name": "Soulfire Staff",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/240.png"
+			}
+		},
+		{
+			"name": "Fragment Memories",
+			"rarity": "special",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Instant",
+			"collector_number": "301",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/241_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/241_front.png"
+			}
+		},
+		{
+			"name": "Rabbit Ritual",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "304",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/242_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/242_front.png"
+			}
+		},
+		{
+			"name": "The Farland Tome",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/243.png"
+			}
+		},
+		{
+			"name": "Omenpath Wanderer",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/244.png"
+			}
+		},
+		{
+			"name": "Timely Platoon",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/245.png"
+			}
+		},
+		{
+			"name": "Burglar of the Bourgeois",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rebel Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/246.png"
+			}
+		},
+		{
+			"name": "Supernatural Espionage",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/247.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Leadbeast",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/248.png"
+			}
+		},
+		{
+			"name": "Creation's Rage",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/249.png"
+			}
+		},
+		{
+			"name": "Lieu's Interrogation",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/250.png"
+			}
+		},
+		{
+			"name": "Mr. Endelgauss, Profiteer General",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/251.png"
+			}
+		},
+		{
+			"name": "Smuggling Techneque",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/252.png"
+			}
+		},
+		{
+			"name": "Stalking Hassmaske",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Rogue Mutant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/253.png"
+			}
+		},
+		{
+			"name": "Gaimontov's Pageburners",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/254.png"
+			}
+		},
+		{
+			"name": "Moira von Bael, Supersonic",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/255.png"
+			}
+		},
+		{
+			"name": "Aerial Superiority",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/256.png"
+			}
+		},
+		{
+			"name": "BF-Class Sniper Rifle",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/257.png"
+			}
+		},
+		{
+			"name": "Collective Perseverance",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/258.png"
+			}
+		},
+		{
+			"name": "Conformant Huntsman",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Spider Construct",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/259.png"
+			}
+		},
+		{
+			"name": "Geisterblitzer Commando",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/260.png"
+			}
+		},
+		{
+			"name": "Trenchrunner Ceratops",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/261.png"
+			}
+		},
+		{
+			"name": "Poxia, Pestilent Pin-up",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/262.png"
+			}
+		},
+		{
+			"name": "Rise of the Gamma Queen",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/263.png"
+			}
+		},
+		{
+			"name": "Persist Through Pestilence",
+			"rarity": "special",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Instant",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/264.png"
+			}
+		},
+		{
+			"name": "Maladapted Multi-Tool",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/265.png"
+			}
+		},
+		{
+			"name": "Codex, the Secret Hand",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Legendary Planeswalker — Codex",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/266.png"
+			}
+		},
+		{
+			"name": "Extraplanar Operative",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Conspiracy Planeswalker — HAL",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/267.png"
+			}
+		},
+		{
+			"name": "Frontline Vanguard",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/268.png"
+			}
+		},
+		{
+			"name": "String of Arrests",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/269.png"
+			}
+		},
+		{
+			"name": "Clyclonic Elemental",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/270.png"
+			}
+		},
+		{
+			"name": "Keeper of the Restricted",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/271.png"
+			}
+		},
+		{
+			"name": "Public Hearing",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/272.png"
+			}
+		},
+		{
+			"name": "Dynasty Overseer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/273.png"
+			}
+		},
+		{
+			"name": "Secret Service",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/274.png"
+			}
+		},
+		{
+			"name": "Blasphemy",
+			"rarity": "special",
+			"mana_cost": "{6}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/275.png"
+			}
+		},
+		{
+			"name": "Hot Chicken",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Food Bird",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/276.png"
+			}
+		},
+		{
+			"name": "Property is Theft",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/277.png"
+			}
+		},
+		{
+			"name": "Ahn-Duroo, Man of the Mists",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/278.png"
+			}
+		},
+		{
+			"name": "Democratized Tyrant",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/279.png"
+			}
+		},
+		{
+			"name": "Divisible Gel",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/280.png"
+			}
+		},
+		{
+			"name": "Aquatior, The Seas as One",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Merfolk God",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/281.png"
+			}
+		},
+		{
+			"name": "Charming Menagerie",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/282.png"
+			}
+		},
+		{
+			"name": "The Game Has Changed",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/283.png"
+			}
+		},
+		{
+			"name": "Sirun, Vizier of the God-Pharaoh",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Snake Cleric",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/284.png"
+			}
+		},
+		{
+			"name": "Styla, the Radical Tide",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Styla",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/285.png"
+			}
+		},
+		{
+			"name": "Automated Authority",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/286.png"
+			}
+		},
+		{
+			"name": "Ambosht, City's Foundation",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Giant Noble Artisan",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/287.png"
+			}
+		},
+		{
+			"name": "Exchanger Courtiurge",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Dwarf Artisan",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/288.png"
+			}
+		},
+		{
+			"name": "Immortalize in Stone",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Kindred Enchantment — Sculpture Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/289.png"
+			}
+		},
+		{
+			"name": "Indecisive Outfitter",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Noble Artisan",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/290.png"
+			}
+		},
+		{
+			"name": "Stand Against the Tide",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/291.png"
+			}
+		},
+		{
+			"name": "Conniving Obfusaur",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dinosuar",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/292.png"
+			}
+		},
+		{
+			"name": "Pull Back the Curtain",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/293.png"
+			}
+		},
+		{
+			"name": "Archpriest of Culling",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Creature — Ogre Cleric",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/294.png"
+			}
+		},
+		{
+			"name": "Succumb to Sacrilege",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Enchantment — Phyrexian",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/295.png"
+			}
+		},
+		{
+			"name": "Echos of Flameteaching",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/296.png"
+			}
+		},
+		{
+			"name": "Geothermal Magmasaur",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Dinosuar",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/297.png"
+			}
+		},
+		{
+			"name": "Plagarist's Seal",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/298.png"
+			}
+		},
+		{
+			"name": "Warwise Retrofitter",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Viashino Assembly-Worker",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/299.png"
+			}
+		},
+		{
+			"name": "Loamplate Ankylosaurus",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/300.png"
+			}
+		},
+		{
+			"name": "Ooze with Potential",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/301.png"
+			}
+		},
+		{
+			"name": "Pako, Playful Mosspup",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Elemental Dog",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/302.png"
+			}
+		},
+		{
+			"name": "Territorial Dispute",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/303.png"
+			}
+		},
+		{
+			"name": "Dawngale, the Crimson Sky",
+			"rarity": "special",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/304.png"
+			}
+		},
+		{
+			"name": "Kalmos Valorseeker",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Rhino Warrior",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/305.png"
+			}
+		},
+		{
+			"name": "Bosko, Surprise Contestant",
+			"rarity": "special",
+			"mana_cost": "{3}{R/G}{G}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/306.png"
+			}
+		},
+		{
+			"name": "Prestidigitation",
+			"rarity": "special",
+			"mana_cost": "{W/U}",
+			"type": "Instant",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/307.png"
+			}
+		},
+		{
+			"name": "Sovereign's Stratagem",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Conspiracy",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/308.png"
+			}
+		},
+		{
+			"name": "ASCII C4tz",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/309.png"
+			}
+		},
+		{
+			"name": "Ghost Shield",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/310.png"
+			}
+		},
+		{
+			"name": "Psychic Angel",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/311.png"
+			}
+		},
+		{
+			"name": "Keeper of the Abecedaria",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{U}{U}",
+			"type": "Creature — Surrakar Advisor",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/312.png"
+			}
+		},
+		{
+			"name": "Mbe Pag-ong, Lord of the Deep",
+			"rarity": "special",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Legendary Enchantment Creature — Elder Elemental Turtle",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/313.png"
+			}
+		},
+		{
+			"name": "Warping Lance",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/314.png"
+			}
+		},
+		{
+			"name": "Wave of Whimsy",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/315.png"
+			}
+		},
+		{
+			"name": "Grave Wanderer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/316.png"
+			}
+		},
+		{
+			"name": "Umbral Strength",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/317.png"
+			}
+		},
+		{
+			"name": "Ætherslinger",
+			"rarity": "special",
+			"mana_cost": "{X}{2}{R}",
+			"type": "Creature — Ætherborn Artificer",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/318.png"
+			}
+		},
+		{
+			"name": "Arcane Attendant",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/319.png"
+			}
+		},
+		{
+			"name": "Iaridh's Vengeance",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/320.png"
+			}
+		},
+		{
+			"name": "Thunderous Charge",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/321.png"
+			}
+		},
+		{
+			"name": "Farseeker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/322.png"
+			}
+		},
+		{
+			"name": "Say Goodbye to Spring",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery — Single",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/323.png"
+			}
+		},
+		{
+			"name": "Search for Overmorrow",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/324.png"
+			}
+		},
+		{
+			"name": "Now We Know Our ABCs!",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/325.png"
+			}
+		},
+		{
+			"name": "Stoic Angel",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/326.png"
+			}
+		},
+		{
+			"name": "Lore Seeker",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/327.png"
+			}
+		},
+		{
+			"name": "Arboreal Nymph",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Dryad",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/328.png"
+			}
+		},
+		{
+			"name": "Allegiant Oath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/329.png"
+			}
+		},
+		{
+			"name": "Second Act",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/330.png"
+			}
+		},
+		{
+			"name": "Angel of Reprisal",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/331.png"
+			}
+		},
+		{
+			"name": "Don't Let it End",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy — Agenda",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/332.png"
+			}
+		},
+		{
+			"name": "Out to Pasture",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/333.png"
+			}
+		},
+		{
+			"name": "Cunning Courtier",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/334.png"
+			}
+		},
+		{
+			"name": "Isila, Portal Mage",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Isila",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/335.png"
+			}
+		},
+		{
+			"name": "B45 — Exilius, Void Thrall",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Exilius",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/336.png"
+			}
+		},
+		{
+			"name": "Shorthand Initiate",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "/KRAOE /KHUR — /HU /PHAPB /AD /SRAOEUS /-R",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/337.png"
+			}
+		},
+		{
+			"name": "Goblin Bomb Squad",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/338.png"
+			}
+		},
+		{
+			"name": "The Hellhound",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Planeswalker — Hellhound",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/339.png"
+			}
+		},
+		{
+			"name": "Dark-Matter Chromasaur",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/340.png"
+			}
+		},
+		{
+			"name": "G47 — Personal Retreat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/341.png"
+			}
+		},
+		{
+			"name": "Sidra, the Python",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Planeswalker — Sidra",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/342.png"
+			}
+		},
+		{
+			"name": "Leyline of Lost Memories",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/343.png"
+			}
+		},
+		{
+			"name": "Mesmoth",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/344.png"
+			}
+		},
+		{
+			"name": "Nebula Lion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/345.png"
+			}
+		},
+		{
+			"name": "Quick Visit",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/346.png"
+			}
+		},
+		{
+			"name": "Tumult",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Creature — Elemental Incarnation",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/347.png"
+			}
+		},
+		{
+			"name": "Remote Cabin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/348.png"
+			}
+		},
+		{
+			"name": "Remote Coast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/349.png"
+			}
+		},
+		{
+			"name": "Remote Crevasse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/350.png"
+			}
+		},
+		{
+			"name": "Remote Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/351.png"
+			}
+		},
+		{
+			"name": "Remote Glacier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/352.png"
+			}
+		},
+		{
+			"name": "Remote Mausoleum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/353.png"
+			}
+		},
+		{
+			"name": "Remote Monument",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/354.png"
+			}
+		},
+		{
+			"name": "Remote Ridge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/355.png"
+			}
+		},
+		{
+			"name": "Remote Ruins",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/356.png"
+			}
+		},
+		{
+			"name": "Remote Volcano",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/357.png"
+			}
+		},
+		{
+			"name": "Coutier's Gambit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "4",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataboocube.github.io/sets/BOO3-files/img/358_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/358_front.png"
+			}
+		},
+		{
+			"name": "Ana Iora",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://strataboocube.github.io/sets/BOO3-files/img/359.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Lethal Inheritance
+	1 Enlightened by Nyx
+	1 Kitewing Companion
+	1 Selfish Sire
+	1 Shirefield Shepherd
+	1 Gatekeep
+	1 An Ode to Dusk
+	1 Scheming Spectre
+	1 Yunne, the Starblessed
+	1 Keeper of the Silent Citadel
+	1 The Trial of the Heart
+	1 Gaslight
+	1 Sword of Storm and Sunder
+	1 Taleless Traitor
+	1 Cull-Beast Channeler
+	1 Embrace the Wilds
+	1 Reyjin, Prismatic Philosopher
+	1 Bringer of Evolution
+	1 Hazoret, the God-Survivor
+	1 Gadgeteer Auctioneer
+	1 Symbiotic Starship
+	1 Glacial Awakening
+	1 Adrift in the Aether
+	1 Daiyu, of Three Houses
+	1 Shunpo Adept
+	1 Bewitching Serenade
+	1 Box of Phanstasms
+	1 Decline
+	1 Shieldmage Field Officer
+	1 Bitter Words
+	1 Dream Swindler
+	1 Rimepelt Packmate
+	1 Soul Assimilator
+	1 Trophy Kill
+	1 Baptism of Draconic Ichor
+	1 Matchlight Spellweaver
+	1 Questing Zerdana
+	1 Sage of Thermodynamics
+	1 Call of the Verdant Hunt
+	1 Daydream Realized
+	1 The Spirit of Cartography
+	1 Anointed Tombship
+	1 Secret Alliance
+	1 Oblivion Alliance
+	1 Senatorial Speaker
+	1 Insightful Alliance
+	1 Masterminding
+	1 Political Riddler
+	1 Walker of Time
+	1 Wilted Intellectual
+	1 Bloodied Alliance
+	1 Demon of Chronology
+	1 Demon of the Ringing Bell
+	1 Feast of Rotting Brains
+	1 Allied Pyromancy
+	1 Inspirational Alliance
+	1 Spectral Searcher
+	1 Demon of Darkest Illusions
+	1 Explosive Leylith
+	1 Cleaveland
+	1 Landscape Vault
+	1 Metropolis of Blood
+	1 Metropolis of Bone
+	1 Metropolis of Darkness
+	1 Metropolis of Death
+	1 Metropolis of Fire
+	1 Metropolis of Frost
+	1 Metropolis of Life
+	1 Metropolis of Light
+	1 Metropolis of Thunder
+	1 Metropolis of Water
+	1 Janah, Her Own Worst Enemy
+	1 Tyrannical Ruler
+	1 Grizwold, Phantasmal Druid
+	1 Corruption Killer
+	1 Don't Mine At Night
+	1 Gift of Decay
+	1 Soul-Infused Butcher
+	1 Super Booster Tutor
+	1 Viral Replication
+	1 Consuming Wildfire
+	1 Crackling Titan
+	1 Diabolic Instigator
+	1 Gangnam Style
+	1 Overthrowing Riot
+	1 Super Chaos Warp
+	1 Plump Kingslayer
+	1 Greedy Dungeon-Delver
+	1 Methri, Cruel Usurper
+	1 Random Loot Drop
+	1 Abandoned Stronghold
+	1 Airborn Stronghold
+	1 Arid Stronghold
+	1 Lush Stronghold
+	1 Mechanical Stronghold
+	1 Molten Stronghold
+	1 Nefarious Stronghold
+	1 Rotten Stronghold
+	1 Ruinous Stronghold
+	1 Venerable Stronghold
+	1 Dungeon Delve
+	1 Self Defense Training
+	1 Naritive Fracture
+	1 Spellshaper's Reversal
+	1 Stolen Seconds
+	1 Vrnkjkt, Potential Mage
+	1 Guild Master Facade
+	1 Shambling Corpse
+	1 Chaotic Wrapper
+	1 Illicit Markets
+	1 Service Dog
+	1 Centaur Skirmisher
+	1 Denaturalize
+	1 Destined Champion
+	1 Pheldagrif, Returned Quester
+	1 Phelddagrif's Assistance
+	1 Radiance Rekindled
+	1 Sphinx Delegate
+	1 Ilythræ, City of Peace
+	1 Grasping Ephemeration
+	1 Hushed Whispers
+	1 Shocking Reanimation
+	1 Silent Poltergeist
+	1 Divine Interventionist
+	1 Systematic Incubation
+	1 Mama Bird
+	1 Reach Deep
+	1 Afterlife Punisher
+	1 Cut Up
+	1 Archer Comrade
+	1 Harmonize Crystallize
+	1 Choice of the Woods
+	1 Off-Duty Janitor
+	1 Bloodied Dagger
+	1 Collapse Traveler
+	1 Extraction Cage
+	1 Makeshift Configuration
+	1 Scrapyard Bartender
+	1 Scuttler Drone
+	1 Seer of Fates
+	1 Origin of the Spark
+	1 Traiterous Hobbyism
+	1 Electoral Officer
+	1 Inspiring Virtuoso
+	1 Mystical Menagerie
+	1 Necrotheistic Catechism
+	1 Tyrant of the Broken Seals
+	1 Essence of Nothing
+	1 Ogmog the Space Frog
+	1 Bessyl, Vaul's Protige
+	1 Black Masquerade
+	1 Junkyard Enthusiast
+	1 Murder Trial
+	1 Taj, Living Malignancy
+	1 Magic Incarnate
+	1 Ake & Ke'an, Colossal Duo
+	1 Banana Vendor
+	1 Kid, Quickshot Captain
+	1 Strixhaven Socialite
+	1 Garden of Life
+	1 Exploration Installation
+	1 Chronomatic Skyscape
+	1 Riddlestrix
+	1 Aberetta Shield
+	1 Call for a Hero
+	1 Gubbug, Paladindrome
+	1 Nestlings
+	1 Abyssal Wobli
+	1 Storm Drake
+	1 Think Again
+	1 Blackleaf Cultist
+	1 R24 — Surprise Jackal!
+	1 R29 — Angle of Attack
+	1 R43 — Overexert
+	1 Terra Elemental
+	1 Baloth Matriarch
+	1 Heinous Flytrap
+	1 Savannah Ram
+	1 Sonomance Expon
+	1 Chiss, Tangle Transmuter
+	1 Rebellious Outcrier
+	1 Rockjaw Rising
+	1 Null Pointer
+	1 Coilmaster Ringmaster
+	1 Courting Courchevelia
+	1 May I Have This Dance?
+	1 Myxomitosis
+	1 Cornucopia Utopia
+	1 Deathsatyr Neophyte
+	1 Introspection
+	1 Sewn Shut
+	1 Sonder
+	1 Buried Darlings
+	1 Killer's Tell
+	1 Flushed Capyiary
+	1 Opening Performance
+	1 Roadside Apotheosis
+	1 Anti-Authorosaurus
+	1 Heir Presumptive
+	1 Koiotemyona of the Pond
+	1 Fabricated Real
+	1 Permutation Regurgitation
+	1 Spilling Happenstance
+	1 Discerning Hoarder
+	1 Quantity Over Quality
+	1 Skyclave Line-Slinger
+	1 Frilled Striker
+	1 Tide Rider
+	1 Avatar of Death
+	1 Concentric Return
+	1 Golden-Scale Gorgon
+	1 All is Tinder
+	1 Velocidragster
+	1 Volcanic Bruiser
+	1 Audience With Nature
+	1 Garden Philanthropist
+	1 Tharo, Leyline Puppeteer
+	1 Aminatou, Many-Fated
+	1 Insanity Amplifier
+	1 William Shakespeare
+	1 Yovan, Imposing Challenger
+	1 Venture Onward
+	1 Termination Construct
+	1 Secluded Beach
+	1 Forbidden Pact
+	1 Second Floor Mage
+	1 Trade Enforcer
+	1 Become {Un}Lost
+	1 Third Floor Mage
+	1 Fourth Floor Mage
+	1 Fifth Floor Mage
+	1 Might of Nature
+	1 Renewed Growth
+	1 Sixth Floor Mage
+	1 Combat Instructor
+	1 Explore the Omenpaths
+	1 Hazel, Master Forager
+	1 Lobbied Legislator
+	1 Ral, Controlled Storm
+	1 Season of Destruction
+	1 Soulfire Staff
+	1 Fragment Memories
+	1 Rabbit Ritual
+	1 The Farland Tome
+	1 Omenpath Wanderer
+	1 Timely Platoon
+	1 Burglar of the Bourgeois
+	1 Supernatural Espionage
+	1 Bloodthirsty Leadbeast
+	1 Creation's Rage
+	1 Lieu's Interrogation
+	1 Mr. Endelgauss, Profiteer General
+	1 Smuggling Techneque
+	1 Stalking Hassmaske
+	1 Gaimontov's Pageburners
+	1 Moira von Bael, Supersonic
+	1 Aerial Superiority
+	1 BF-Class Sniper Rifle
+	1 Collective Perseverance
+	1 Conformant Huntsman
+	1 Geisterblitzer Commando
+	1 Trenchrunner Ceratops
+	1 Poxia, Pestilent Pin-up
+	1 Rise of the Gamma Queen
+	1 Persist Through Pestilence
+	1 Maladapted Multi-Tool
+	1 Codex, the Secret Hand
+	1 Extraplanar Operative
+	1 Frontline Vanguard
+	1 String of Arrests
+	1 Clyclonic Elemental
+	1 Keeper of the Restricted
+	1 Public Hearing
+	1 Dynasty Overseer
+	1 Secret Service
+	1 Blasphemy
+	1 Hot Chicken
+	1 Property is Theft
+	1 Ahn-Duroo, Man of the Mists
+	1 Democratized Tyrant
+	1 Divisible Gel
+	1 Aquatior, The Seas as One
+	1 Charming Menagerie
+	1 The Game Has Changed
+	1 Sirun, Vizier of the God-Pharaoh
+	1 Styla, the Radical Tide
+	1 Automated Authority
+	1 Ambosht, City's Foundation
+	1 Exchanger Courtiurge
+	1 Immortalize in Stone
+	1 Indecisive Outfitter
+	1 Stand Against the Tide
+	1 Conniving Obfusaur
+	1 Pull Back the Curtain
+	1 Archpriest of Culling
+	1 Succumb to Sacrilege
+	1 Echos of Flameteaching
+	1 Geothermal Magmasaur
+	1 Plagarist's Seal
+	1 Warwise Retrofitter
+	1 Loamplate Ankylosaurus
+	1 Ooze with Potential
+	1 Pako, Playful Mosspup
+	1 Territorial Dispute
+	1 Dawngale, the Crimson Sky
+	1 Kalmos Valorseeker
+	1 Bosko, Surprise Contestant
+	1 Prestidigitation
+	1 Sovereign's Stratagem
+	1 ASCII C4tz
+	1 Ghost Shield
+	1 Psychic Angel
+	1 Keeper of the Abecedaria
+	1 Mbe Pag-ong, Lord of the Deep
+	1 Warping Lance
+	1 Wave of Whimsy
+	1 Grave Wanderer
+	1 Umbral Strength
+	1 Ætherslinger
+	1 Arcane Attendant
+	1 Iaridh's Vengeance
+	1 Thunderous Charge
+	1 Farseeker
+	1 Say Goodbye to Spring
+	1 Search for Overmorrow
+	1 Now We Know Our ABCs!
+	1 Stoic Angel
+	1 Lore Seeker
+	1 Arboreal Nymph
+	1 Allegiant Oath
+	1 Second Act
+	1 Angel of Reprisal
+	1 Don't Let it End
+	1 Out to Pasture
+	1 Cunning Courtier
+	1 Isila, Portal Mage
+	1 B45 — Exilius, Void Thrall
+	1 Shorthand Initiate
+	1 Goblin Bomb Squad
+	1 The Hellhound
+	1 Dark-Matter Chromasaur
+	1 G47 — Personal Retreat
+	1 Sidra, the Python
+	1 Leyline of Lost Memories
+	1 Mesmoth
+	1 Nebula Lion
+	1 Quick Visit
+	1 Tumult
+	1 Remote Cabin
+	1 Remote Coast
+	1 Remote Crevasse
+	1 Remote Fortress
+	1 Remote Glacier
+	1 Remote Mausoleum
+	1 Remote Monument
+	1 Remote Ridge
+	1 Remote Ruins
+	1 Remote Volcano
+	1 Coutier's Gambit
+	1 Ana Iora
