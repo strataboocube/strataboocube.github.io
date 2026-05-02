@@ -1,6 +1,16 @@
 ﻿{
     "sets": [
         {
+            "set_code": "BOO1",
+            "set_name": "Strata Games BOO Cube 2024",
+            "formats": ""
+        },
+        {
+            "set_code": "BOO2",
+            "set_name": "Strata Games BOO Cube 2025",
+            "formats": ""
+        },
+        {
             "set_code": "BOO3",
             "set_name": "Strata Games BOO Cube 2026",
             "formats": ""

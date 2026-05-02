@@ -309,7 +309,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/29.png"
 			}
@@ -319,7 +319,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Nightmare Warlock",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/30.png"
 			}
@@ -519,7 +519,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/50.png"
 			}
@@ -529,7 +529,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/51.png"
 			}
@@ -539,7 +539,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/52.png"
 			}
@@ -766,7 +766,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Assassin",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/74.png"
 			}
@@ -776,7 +776,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/75.png"
 			}
@@ -1313,7 +1313,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/128.png"
 			}
@@ -1523,7 +1523,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Troll Berserker",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/149.png"
 			}
@@ -1533,7 +1533,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/150.png"
 			}
@@ -1733,7 +1733,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/170.png"
 			}
@@ -1953,7 +1953,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Reflection",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/192.png"
 			}
@@ -2123,7 +2123,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/209.png"
 			}
@@ -2541,7 +2541,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/248.png"
 			}
@@ -2551,7 +2551,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/249.png"
 			}
@@ -2791,7 +2791,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/273.png"
 			}
@@ -3417,11 +3417,11 @@
 			}
 		},
 		{
-			"name": "B45 — Exilius, Void Thrall",
+			"name": "Exilius, Void Thrall",
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Exilius",
-			"collector_number": "118",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/336.png"
 			}
@@ -4002,7 +4002,7 @@
 	1 Out to Pasture
 	1 Cunning Courtier
 	1 Isila, Portal Mage
-	1 B45 — Exilius, Void Thrall
+	1 Exilius, Void Thrall
 	1 Shorthand Initiate
 	1 Goblin Bomb Squad
 	1 The Hellhound

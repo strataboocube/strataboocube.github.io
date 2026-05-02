@@ -176,12 +176,12 @@
         "position": "246"
     },
     {
-        "card_name": "B45 \u2014 Exilius, Void Thrall",
+        "card_name": "Bessyl, Vaul's Protige",
         "number": 118,
-        "shape": "planeswalker",
+        "shape": "leveler",
         "set": "BOO3",
         "rotated": false,
-        "position": "336"
+        "position": "149"
     },
     {
         "card_name": "Archer Comrade",
@@ -216,12 +216,12 @@
         "position": "270"
     },
     {
-        "card_name": "Bessyl, Vaul's Protige",
+        "card_name": "Bitter Words",
         "number": 119,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "149"
+        "position": "29"
     },
     {
         "card_name": "Baptism of Draconic Ichor",
@@ -256,12 +256,12 @@
         "position": "292"
     },
     {
-        "card_name": "Bitter Words",
+        "card_name": "Black Masquerade",
         "number": 120,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "29"
+        "position": "150"
     },
     {
         "card_name": "Blasphemy",
@@ -296,12 +296,12 @@
         "position": "187"
     },
     {
-        "card_name": "Black Masquerade",
+        "card_name": "Blackleaf Cultist",
         "number": 121,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "150"
+        "position": "170"
     },
     {
         "card_name": "Chaotic Wrapper",
@@ -336,12 +336,12 @@
         "position": "334"
     },
     {
-        "card_name": "Blackleaf Cultist",
+        "card_name": "Bloodied Alliance",
         "number": 122,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "170"
+        "position": "50"
     },
     {
         "card_name": "Consuming Wildfire",
@@ -376,12 +376,12 @@
         "position": "188"
     },
     {
-        "card_name": "Bloodied Alliance",
+        "card_name": "Bloodthirsty Leadbeast",
         "number": 123,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "50"
+        "position": "248"
     },
     {
         "card_name": "Crackling Titan",
@@ -416,12 +416,12 @@
         "position": "27"
     },
     {
-        "card_name": "Bloodthirsty Leadbeast",
+        "card_name": "Buried Darlings",
         "number": 124,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "248"
+        "position": "192"
     },
     {
         "card_name": "Diabolic Instigator",
@@ -456,12 +456,12 @@
         "position": "147"
     },
     {
-        "card_name": "Buried Darlings",
+        "card_name": "Concentric Return",
         "number": 125,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "192"
+        "position": "209"
     },
     {
         "card_name": "Echos of Flameteaching",
@@ -496,12 +496,12 @@
         "position": "206"
     },
     {
-        "card_name": "Concentric Return",
+        "card_name": "Corruption Killer",
         "number": 126,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "209"
+        "position": "74"
     },
     {
         "card_name": "Fifth Floor Mage",
@@ -536,12 +536,12 @@
         "position": "5"
     },
     {
-        "card_name": "Corruption Killer",
+        "card_name": "Creation's Rage",
         "number": 127,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "74"
+        "position": "249"
     },
     {
         "card_name": "Flushed Capyiary",
@@ -576,12 +576,12 @@
         "position": "73"
     },
     {
-        "card_name": "Creation's Rage",
+        "card_name": "Cut Up",
         "number": 128,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "249"
+        "position": "128"
     },
     {
         "card_name": "Gaimontov's Pageburners",
@@ -616,12 +616,12 @@
         "position": "45"
     },
     {
-        "card_name": "Cut Up",
+        "card_name": "Demon of Chronology",
         "number": 129,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "128"
+        "position": "51"
     },
     {
         "card_name": "Gangnam Style",
@@ -656,12 +656,12 @@
         "position": "189"
     },
     {
-        "card_name": "Demon of Chronology",
+        "card_name": "Demon of the Ringing Bell",
         "number": 130,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "51"
+        "position": "52"
     },
     {
         "card_name": "Gaslight",
@@ -696,12 +696,12 @@
         "position": "335"
     },
     {
-        "card_name": "Demon of the Ringing Bell",
+        "card_name": "Don't Mine At Night",
         "number": 131,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "52"
+        "position": "75"
     },
     {
         "card_name": "Geothermal Magmasaur",
@@ -736,12 +736,12 @@
         "position": "312"
     },
     {
-        "card_name": "Don't Mine At Night",
+        "card_name": "Dream Swindler",
         "number": 132,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "75"
+        "position": "30"
     },
     {
         "card_name": "Goblin Bomb Squad",
@@ -776,12 +776,12 @@
         "position": "271"
     },
     {
-        "card_name": "Dream Swindler",
+        "card_name": "Dynasty Overseer",
         "number": 133,
         "shape": "normal",
         "set": "BOO3",
         "rotated": false,
-        "position": "30"
+        "position": "273"
     },
     {
         "card_name": "Harmonize Crystallize",
@@ -816,12 +816,12 @@
         "position": "125"
     },
     {
-        "card_name": "Dynasty Overseer",
+        "card_name": "Exilius, Void Thrall",
         "number": 134,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "BOO3",
         "rotated": false,
-        "position": "273"
+        "position": "336"
     },
     {
         "card_name": "The Hellhound",

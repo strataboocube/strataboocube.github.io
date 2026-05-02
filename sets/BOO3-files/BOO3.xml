@@ -608,7 +608,7 @@ When this creature enters, create a 1/1 blue Faerie creature token with flying.
 Enchant creature
 When this Aura enters, draw a card.
 Enchanted creature gets +1/+1 and has afflict 1. (Whenever that creature becomes blocked, defending player loses 1 life.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/29.png" num="120">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/29.png" num="119">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -624,7 +624,7 @@ Enchanted creature gets +1/+1 and has afflict 1. (Whenever that creature becomes
 		<card>
 			<name>Dream Swindler</name>
 			<text>When this creature enters, each opponent exiles the top card of their library or exiles a nonland card from their hand. You may play those cards for as long as they remain exiled, and mana of any type can be spent to cast them.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/30.png" num="133">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/30.png" num="132">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +975,7 @@ Flashback {4}{U} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>Bloodied Alliance</name>
 			<text>Destroy target creature. Create a player token immediately to your left with X life, where X is that creature&apos;s mana value. For the rest of the game, you control that player. That player gets an emblem with &quot;If you would draw a card while your library has no cards in it, skip that draw instead.&quot;</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/50.png" num="123">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/50.png" num="122">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -993,7 +993,7 @@ Flashback {4}{U} (You may cast this card from your graveyard for its flashback c
 			<text>Kicker—Skip your next turn. (You may skip your next turn in addition to any other costs as you cast this spell.)
 Flying
 When this creature enters, if it was kicked, put a finality counter on it and gain control of target player until the start of your next turn.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/51.png" num="130">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/51.png" num="129">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1010,7 +1010,7 @@ When this creature enters, if it was kicked, put a finality counter on it and ga
 		<card>
 			<name>Demon of the Ringing Bell</name>
 			<text>When this creature enters, each player conjures a card named Ghoulcaller&apos;s Bell onto the battlefield under their control. (A {1} artifact with &quot;{T}: Each player mills a card.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/52.png" num="131">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/52.png" num="130">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1407,7 @@ If this enchantment would be put into a graveyard from anywhere, exile it instea
 			<name>Corruption Killer</name>
 			<text>Deathtouch
 Whenever this creature deals combat damage to a player, that player loses life equal to the number of conspiracies they own in the command zone.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/74.png" num="127">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/74.png" num="126">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1424,7 +1424,7 @@ Whenever this creature deals combat damage to a player, that player loses life e
 		<card>
 			<name>Don&apos;t Mine At Night</name>
 			<text>Target creature gets -2/-2 until end of turn. If it&apos;s night, destroy that creature instead.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/75.png" num="132">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/75.png" num="131">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2364,7 @@ Manifest the top card of your library, then draw a card. (To manifest a card, pu
 		<card>
 			<name>Cut Up</name>
 			<text>Destroy target creature with total power and toughness 5 or greater.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/128.png" num="129">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/128.png" num="128">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2561,7 +2561,7 @@ When this creature enters, you may put a card with the noted name that you draft
 			<name>Origin of the Spark</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create a 2/2 Human creature token that&apos;s all colors.
-Put three loyalty counters on up to one target creature or planeswalker you control. It gains &quot;l[-1]: Planeswalk&quot; and &quot;l[-3]: Chaos Ensues.&quot;
+I, II — Put three loyalty counters on up to one target creature or planeswalker you control. It gains &quot;l[-1]: Planeswalk&quot; and &quot;l[-3]: Chaos Ensues.&quot;
 III — Put Origin of the Spark into the command zone perpetually transformed.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/140.png" num="13">BOO3</set>
 			<prop>
@@ -2729,7 +2729,7 @@ Last strike (This creature deals combat damage after creatures without last stri
 As you draft a card, you may remove it from the draft face up. Bessyl gains all loyalty abilities of that card. (Those cards aren&apos;t in your card pool.)
 Spark X, where X one plus the number of cards removed from the draft with cards named Bessyl, Vaul&apos;s Protige.
 [level -1] You draw a card and you lose 1 life.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/149.png" num="119">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/149.png" num="118">BOO3</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -2747,7 +2747,7 @@ Spark X, where X one plus the number of cards removed from the draft with cards 
 			<name>Black Masquerade</name>
 			<text>Creatures you control have mimic. (As a creature enters under your control, choose a creature type. It becomes that creature type in addition to its other types.)
 Whenever a creature you control dies, you may pay {B}. If you do, put a -1/-1 counter on target creature that shares a creature type with it.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/150.png" num="121">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/150.png" num="120">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3130,7 +3130,7 @@ Choose target spell or ability with a single target. Then, choose one—
 			<name>Blackleaf Cultist</name>
 			<text>When this creature enters, put a decayed counter on target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a player sacrifices a permanent, they lose 1 life.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/170.png" num="122">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/170.png" num="121">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3445,9 +3445,9 @@ If you would draw a card while Cornucopia Utopia is in your graveyard, you may i
 		<card>
 			<name>Deathsatyr Neophyte</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Whenever another creature leaves the battlefield on your turn, you may remove a counter from target permanent.
-Draw a card, then discard a card.
-Mill four cards, then return a card from your graveyard to your hand.</text>
+I — Whenever another creature leaves the battlefield on your turn, you may remove a counter from target permanent.
+II — Draw a card, then discard a card.
+III — Mill four cards, then return a card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/188.png" num="76">BOO3</set>
 			<prop>
 				<layout>saga</layout>
@@ -3519,7 +3519,7 @@ Target creature loses all abilities and gets -2/-0 until end of turn.</text>
 			<name>Buried Darlings</name>
 			<text>When this creature enters, each player exiles a nonland permanent card from their graveyard. Put each creature card with mana value 3 or less exiled this way onto the battlefield under your control, then this creature gains the non-characteristic defining abilities of each other card exiled this way.
 Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/192.png" num="125">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/192.png" num="124">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3686,7 +3686,7 @@ You may discard this card any time you could cast an instant. (This isn&apos;t a
 		<card>
 			<name>Permutation Regurgitation</name>
 			<text>As this Saga enters, note the name of a random Saga card (from all of Magic).
-Roll a d10—
+I, II, III, IV, V — Roll a d10—
 [b]1-3[/b] | The player with the lowest life total chooses a chapter ability of the noted Saga. Trigger it.
 [b]4-5[/b] | Trigger the noted Saga&apos;s chapter I ability.
 [b]6-7[/b] | Trigger the noted Saga&apos;s chapter II ability.
@@ -3838,7 +3838,7 @@ Whenever a player loses the game, put seven +1/+1 counters on this creature.</te
 		<card>
 			<name>Concentric Return</name>
 			<text>Return target creature card from your graveyard to your hand. That card perpetually gains cascade. (When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/209.png" num="126">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/209.png" num="125">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3854,9 +3854,9 @@ Whenever a player loses the game, put seven +1/+1 counters on this creature.</te
 		<card>
 			<name>Golden-Scale Gorgon</name>
 			<text>Encore {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
-Each player sacrifices a creature.
+I, II — Each player sacrifices a creature.
 Target creature you control gains deathtouch until end of turn.
-You draw a card and lose 1 life.</text>
+III — You draw a card and lose 1 life.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/210.png" num="138">BOO3</set>
 			<prop>
 				<layout>saga</layout>
@@ -4643,7 +4643,7 @@ Addendum — If you cast this spell during your main phase, scry 1, then draw a 
 			<name>Bloodthirsty Leadbeast</name>
 			<text>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters with two +1/+1 counters on it.)
 Each creature you control with counters on it has afflict X, where X is the number of counters on it. (Whenever this creature becomes blocked, defending player loses X life.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/248.png" num="124">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/248.png" num="123">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4661,7 +4661,7 @@ Each creature you control with counters on it has afflict X, where X is the numb
 			<name>Creation&apos;s Rage</name>
 			<text>When this enchantment enters, return target creature card from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)
 Creatures you control with finality counters on them get +2/+2 and have menace and trample.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/249.png" num="128">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/249.png" num="127">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5092,7 +5092,7 @@ When this creature enters, if you cast it, starting with you, each player choose
 			<name>Dynasty Overseer</name>
 			<text>Menace
 When this creature enters, an opponent of your choice becomes the monarch.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/273.png" num="134">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/273.png" num="133">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6232,14 +6232,14 @@ You may cast this card as a copy of any card removed from the draft with a card 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>B45 — Exilius, Void Thrall</name>
+			<name>Exilius, Void Thrall</name>
 			<text>Draft this card face up.
 As you draft a card, you may remove it from the draft face down. (Those cards aren&apos;t in your card pool.)
-This planeswalker enters with a loyalty counter on it for each card removed from the draft with it.
+This planeswalker enters with a loyalty counter on it for each card removed from the draft with cards named Exilius, Void Thrall.
 [-1]: Each opponent discards a card.
 [-3]: Each opponent sacrifices a nontoken creature.
 [-6]: Each opponent gets an emblem with &quot;Whenever you draw a card, you lose 1 life.&quot;</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/336.png" num="118">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/336.png" num="134">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6249,7 +6249,7 @@ This planeswalker enters with a loyalty counter on it for each card removed from
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<loyalty>*</loyalty>
+				<loyalty>0</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
