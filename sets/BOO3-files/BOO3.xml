@@ -243,7 +243,7 @@ As long as you have less than 0 life, if you would lose life, you gain that much
 		<card>
 			<name>Gaslight</name>
 			<text>Gaslight deals 3 damage to any target. You may goad a creature dealt damage this way. Until your next turn, you and permanents you control can&apos;t be the target of spells or abilities controlled by an opponent dealt damage this way.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/11.png" num="178">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/11.png" num="179">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -698,7 +698,7 @@ If this spell was kicked transfer the modifications from the destroyed creature 
 			<text>Kindred agenda (Start the game with this conspiracy face down in the command zone and secretly choose a creature type. You may turn this conspiracy face up any time and reveal the chosen type.)
 Creatures you control of the chosen type have &quot;{R}, {T}: This creature deals 1 damage to any target&quot;.
 Whenever you cast a Dragon spell, untap each creature you control of the chosen type.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/34.png" num="167">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/34.png" num="168">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -715,7 +715,7 @@ Whenever you cast a Dragon spell, untap each creature you control of the chosen 
 			<name>Matchlight Spellweaver</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/35.png" num="188">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/35.png" num="189">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -733,7 +733,7 @@ Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until
 			<name>Questing Zerdana</name>
 			<text>First strike
 When this creature leaves the battlefield, create a Fantasy token. (It&apos;s a red enchantment with &quot;{3}, Sacrifice this enchantment: Exile the top two cards of your library. Until the end of your next turn, you may play those cards. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/36.png" num="194">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/36.png" num="196">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -752,7 +752,7 @@ When this creature leaves the battlefield, create a Fantasy token. (It&apos;s a 
 			<text>Reveal this card as you draft it. After you draft this card, conjure three cards named Snow-Covered Mountain into your card pool.
 Snowfall — Whenever you cast a snow spell or a snow land you control enters, put a +1/+1 counter on this creature.
 {2}{S}{S}: This creature gets double strike until end of turn. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/37.png" num="199">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/37.png" num="198">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1063,7 +1063,7 @@ This spell deals 2 damage to any target.</text>
 			<text>You may reveal this card from your opening hand. If you do, Create a player token immediately to your left with 1 life. For the rest of the game, you control that player. That player gets an emblem with &quot;If you would draw a card while your library has no cards in it, skip that draw instead.&quot;
 As an additional cost to cast this spell, discard a card, exile a conspiracy you control, or have a token player you control lose the game.
 Draw two cards.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/55.png" num="186">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/55.png" num="187">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1079,7 +1079,7 @@ Draw two cards.</text>
 		<card>
 			<name>Spectral Searcher</name>
 			<text>When this creature enters, each player conjures a card named Spectral Searchlight onto the battlefield under their control. (A {3} artifact with &quot;{T}: Choose a player. That player adds one mana of any color they choose.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/56.png" num="201">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/56.png" num="200">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1514,7 +1514,7 @@ Cipher (Then you may exile this spell card encoded on a creature you control. Wh
 			<text>Haste
 {T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.
 Forecast — {2}{R}, Reveal Consuming Wildfire from your hand: Conjure a copy of Consuming Inferno into your hand. (Activate only during your upkeep and only once each turn.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/80.png" num="170">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/80.png" num="171">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1533,7 +1533,7 @@ Forecast — {2}{R}, Reveal Consuming Wildfire from your hand: Conjure a copy of
 			<text>Slumber 2 — 1R
 Menace
 Whenever one or more stun counters are removed from this creature, conjure a card named Shock into your hand. (Shock is a {R} instant with &quot;Shock deals 2 damage to any target.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/81.png" num="171">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/81.png" num="172">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1552,7 +1552,7 @@ Whenever one or more stun counters are removed from this creature, conjure a car
 			<text>(As this enters and as you untap, this isn&apos;t a battle until end of turn. As each opponent untaps, this isn&apos;t a creature until end of turn. As long as this is a battle, you protect it.)
 Flying, haste
 Whenever this creature enters or attacks, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.) [4/3]</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/82.png" num="172">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/82.png" num="173">BOO3</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -1570,7 +1570,7 @@ Whenever this creature enters or attacks, goad target creature. (Until your next
 			<name>Gangnam Style</name>
 			<text>Tempting Offer — When you cast this spell, each opponent may copy it. For each opponent who does, copy this spell. Players may choose new targets for the copies.
 Target creature gets +3/+1 and gains horsemanship until end of turn. (That creature can&apos;t be blocked except by creatures with horsemanship.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/83.png" num="177">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/83.png" num="178">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1587,7 +1587,7 @@ Target creature gets +3/+1 and gains horsemanship until end of turn. (That creat
 			<name>Overthrowing Riot</name>
 			<text>The first creature spell you cast each turn has riot. (That creature enters with your choice of a +1/+1 counter or haste.)
 Creatures you control have dethrone. (Whenever that creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/84.png" num="191">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/84.png" num="193">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1605,7 +1605,7 @@ Creatures you control have dethrone. (Whenever that creature attacks the player 
 			<text>Draft Super Chaos Warp face up.
 As you draft a card, you may remove that card from the draft. If you do, turn Super Chaos Warp face down, and add a random card from another Strata Games BOO cube to your card pool.
 The owner of target nonenchantment permanent shuffles it into their library, then conjures a random card from another Strata Games BOO cube into the command zone. If it&apos;s a land card, they put it onto the battlefield. Otherwise, they may cast it without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/85.png" num="202">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/85.png" num="201">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2000,7 +2000,7 @@ You may remove another card from the draft face up as you draft it and turn this
 			<name>Chaotic Wrapper</name>
 			<text>This card can&apos;t be your first, second, or third pick of the first draft round. (It can be the first, second, or third pick of any further draft rounds.)
 Reveal this card as you draft it. After you draft this card, each player puts a face down card from their card pool into a single pile. Add that pile to the draft as a pack. (Your next pick is from that pack. It&apos;s drafted this round.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/108.png" num="169">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/108.png" num="170">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2018,7 +2018,7 @@ Reveal this card as you draft it. After you draft this card, each player puts a 
 			<name>Illicit Markets</name>
 			<text>Once each pick, you may reveal this card from a pack you are looking at. If you do, you can&apos;t draft this card this pick, and you may draft an additional card from this booster pack by revealing two cards from your card pool, putting them into this booster pack, and increasing the noted number of this card by one. (It starts at 0.)
 {1}{R}: Up to X target creatures get +1/+0 for each {R} spent on this, where X is the noted number.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/109.png" num="185">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/109.png" num="186">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2036,7 +2036,7 @@ Reveal this card as you draft it. After you draft this card, each player puts a 
 			<text>Visit — Put a level counter on this creature. [1/2]
 [level 1-2] Visit — Creatures you control gain trample and haste until end of turn. [3/2]
 [level 3+] Visit — Creatures you control get +X/+X and gain trample and haste until end of turn, where X is this creatures level. The same is true of creatures that enter under your control this turn. [4/2]</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/110.png" num="200">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/110.png" num="199">BOO3</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -2381,7 +2381,7 @@ Manifest the top card of your library, then draw a card. (To manifest a card, pu
 			<name>Archer Comrade</name>
 			<text>This creature enters with a ranged counter on it. (Prevent all combat damage dealt to a creature with ranged if its attacking with at least one other creature without ranged.)
 Whenever this creature deals combat damage to a player while attacking with another creature, you may move a ranged counter from it onto another target attacking creature.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/129.png" num="166">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/129.png" num="167">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2398,7 +2398,7 @@ Whenever this creature deals combat damage to a player while attacking with anot
 		<card>
 			<name>Harmonize Crystallize</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. When it dies this turn, create two tapped Powerstone tokens. (They&apos;re artifacts with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/130.png" num="181">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/130.png" num="182">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2432,7 +2432,7 @@ Whenever you draw a creature card, you may reveal it and pay {3}. When you do, d
 			<name>Off-Duty Janitor</name>
 			<text>Trample
 When this creatures enters, you may move all +1/+1 counters from creatures you don&apos;t control onto this creature.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/132.png" num="240">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/132.png" num="239">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2561,7 +2561,7 @@ When this creature enters, you may put a card with the noted name that you draft
 			<name>Origin of the Spark</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create a 2/2 Human creature token that&apos;s all colors.
-I, II — Put three loyalty counters on up to one target creature or planeswalker you control. It gains &quot;l[-1]: Planeswalk&quot; and &quot;l[-3]: Chaos Ensues.&quot;
+Put three loyalty counters on up to one target creature or planeswalker you control. It gains &quot;l[-1]: Planeswalk&quot; and &quot;l[-3]: Chaos Ensues.&quot;
 III — Put Origin of the Spark into the command zone perpetually transformed.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/140.png" num="13">BOO3</set>
 			<prop>
@@ -2834,7 +2834,7 @@ Cycling—Pay {1} or 2 life.</text>
 • This spell and target permanent gain first strike.
 • This spell and target permanent get +2/+2.
 • This spell and target permanent you control become creatures. (They lose all other card types.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/154.png" num="187">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/154.png" num="188">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3145,11 +3145,11 @@ Whenever a player sacrifices a permanent, they lose 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>R24 — Surprise Jackal!</name>
-			<text>Sneak {2}{R}{R} (You may cast this spell for {2}{R}{R} if you also return an unblocked attacker you control to hand during the declare blockers step.) (You may cast this spell for {2}{R}{R} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+			<name>Surprise Jackal!</name>
+			<text>Sneak {2}{R}{R} (You may cast this spell for {2}{R}{R} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
 When this creature enters, for each player, exile target instant or sorcery card from that player&apos;s graveyard.
 Once during each of your turns, you may cast a card exiled with this creature without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/171.png" num="195">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/171.png" num="202">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3164,9 +3164,9 @@ Once during each of your turns, you may cast a card exiled with this creature wi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>R29 — Angle of Attack</name>
-			<text>R29 — Angle of Attack deals 90 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/172.png" num="196">BOO3</set>
+			<name>Angle of Attack</name>
+			<text>Angle of Attack deals 90 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/172.png" num="165">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3180,9 +3180,9 @@ Once during each of your turns, you may cast a card exiled with this creature wi
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>R43 — Overexert</name>
+			<name>Overexert</name>
 			<text>Target creature gets +5/+1 and gains trample until end of turn. Put a -1/-1 counter on it.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/173.png" num="197">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/173.png" num="192">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3235,7 +3235,7 @@ Whenever this creature attacks, put a +1/+1 on target Beast you control.</text>
 			<name>Heinous Flytrap</name>
 			<text>Reach, deathtouch
 Whenever a creature dealt damage by this creature this turn dies, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/176.png" num="235">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/176.png" num="234">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3427,7 +3427,7 @@ Myriad (Whenever this creature attacks, for each opponent other than defending p
 		</card>
 		<card>
 			<name>Cornucopia Utopia</name>
-			<text>When this enchantment enters, you get three focus counters.
+			<text>When this enchantment enters, you get three focus counters. (At the beginning of your draw step, lose a focus counter if you have any. When you do, draw a card.)
 If you would draw a card while Cornucopia Utopia is in your graveyard, you may instead pay {2}{U}. If you do, draw two cards.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/187.png" num="74">BOO3</set>
 			<prop>
@@ -3445,9 +3445,9 @@ If you would draw a card while Cornucopia Utopia is in your graveyard, you may i
 		<card>
 			<name>Deathsatyr Neophyte</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Whenever another creature leaves the battlefield on your turn, you may remove a counter from target permanent.
-II — Draw a card, then discard a card.
-III — Mill four cards, then return a card from your graveyard to your hand.</text>
+Whenever another creature leaves the battlefield on your turn, you may remove a counter from target permanent.
+Draw a card, then discard a card.
+Mill four cards, then return a card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/188.png" num="76">BOO3</set>
 			<prop>
 				<layout>saga</layout>
@@ -3536,7 +3536,7 @@ Dredge 3 (If you would draw a card, you may mill three cards instead. If you do,
 		<card>
 			<name>Killer&apos;s Tell</name>
 			<text>Spree (Choose one or more additional costs.) (Choose one or more additional costs.)
-+ {WB} — Destroy target unnatural creature.
++ {WB} — Destroy target unnatural creature. (A permanent is unnatural if it is merged, has five or more types, or has negative stats.)
 + {UB} — Destroy target creature targeted by a spell or ability you don&apos;t control.
 + {BR} — Destroy target creature you own.
 + {BG} — Destroy target modified creature.</text>
@@ -3557,7 +3557,7 @@ Dredge 3 (If you would draw a card, you may mill three cards instead. If you do,
 			<name>Flushed Capyiary</name>
 			<text>Flying, haste
 Whenever you expend 4, expend 8, or expend 12, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;. You expend N as you spend your Nth total mana to cast spells during a turn.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/194.png" num="175">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/194.png" num="176">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3578,7 +3578,7 @@ Whenever a lore counter is put on this Saga, it deals 2 damage to any target.
 I — It you noted the first draft round for cards named Opening Performance, you may discard any number of cards, then draw that many cards.
 II — It you noted the second draft round for cards named Opening Performance, up to two target creatures can&apos;t block this turn.
 III — It you noted any draft round other than the first or second for cards named Opening Performance, remove all counters from this Saga.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/195.png" num="190">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/195.png" num="191">BOO3</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3596,7 +3596,7 @@ III — It you noted any draft round other than the first or second for cards na
 			<text>Cast this spell only before attackers are declared.
 Target opponent chooses which creatures attack this turn.
 Target opponent chooses which creatures block this turn and how those creatures block.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/196.png" num="198">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/196.png" num="197">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3612,7 +3612,7 @@ Target opponent chooses which creatures block this turn and how those creatures 
 		<card>
 			<name>Anti-Authorosaurus</name>
 			<text>When Anti-Authorosaurus enters, choose one—
-• Vandalise it, then vandalise target noncreature permanent.
+• Vandalise it, then vandalise target noncreature permanent. (To vandalise a permanent, put a counter of each kind among permanents you control onto it.)
 • Destroy target artifact.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/197.png" num="213">BOO3</set>
 			<prop>
@@ -3635,7 +3635,7 @@ Whenever you become the monarch, choose one—
 • You get a focus counter.
 • Proliferate.
 • Add {G}{G}.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/198.png" num="236">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/198.png" num="235">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3652,7 +3652,7 @@ Whenever you become the monarch, choose one—
 			<name>Koiotemyona of the Pond</name>
 			<text>{0}: Add {G}. Activate only once each turn and only if this card is the top card of your graveyard.
 You may discard this card any time you could cast an instant. (This isn&apos;t an activated ability.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/199.png" num="237">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/199.png" num="236">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3686,7 +3686,7 @@ You may discard this card any time you could cast an instant. (This isn&apos;t a
 		<card>
 			<name>Permutation Regurgitation</name>
 			<text>As this Saga enters, note the name of a random Saga card (from all of Magic).
-I, II, III, IV, V — Roll a d10—
+Roll a d10—
 [b]1-3[/b] | The player with the lowest life total chooses a chapter ability of the noted Saga. Trigger it.
 [b]4-5[/b] | Trigger the noted Saga&apos;s chapter I ability.
 [b]6-7[/b] | Trigger the noted Saga&apos;s chapter II ability.
@@ -3854,9 +3854,9 @@ Whenever a player loses the game, put seven +1/+1 counters on this creature.</te
 		<card>
 			<name>Golden-Scale Gorgon</name>
 			<text>Encore {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
-I, II — Each player sacrifices a creature.
+Each player sacrifices a creature.
 Target creature you control gains deathtouch until end of turn.
-III — You draw a card and lose 1 life.</text>
+You draw a card and lose 1 life.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/210.png" num="138">BOO3</set>
 			<prop>
 				<layout>saga</layout>
@@ -3944,7 +3944,7 @@ Whenever this creature deals combat damage to an opponent, it deals that much da
 		<card>
 			<name>Garden Philanthropist</name>
 			<text>{T}: Add two mana of any one color. At the beginning of each opponent&apos;s next main phase, that player adds one mana of a color of their choice. Activate only during your turn.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/215.png" num="233">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/215.png" num="232">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4216,7 +4216,7 @@ Whenever a creature card is put into a player&apos;s graveyard from anywhere for
 			<name>Fifth Floor Mage</name>
 			<text>Menace
 Whenever a player casts their second noncreature spell each turn, that player ventures into The Tower. (They enter the next room in the current The Tower dungeon. If there isn&apos;t one, they enter The First Floor.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/230.png" num="174">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/230.png" num="175">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4238,7 +4238,7 @@ Enchanted creature gets +1/+1 for each land you control and has melee.
 ---
 
 Each land you control deals 1 damage to target creature.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/231.png" num="239">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/231.png" num="238">BOO3</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -4750,7 +4750,7 @@ If a creature an opponent controls would die, instead exile it with a capture co
 			<name>Gaimontov&apos;s Pageburners</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever this creature enters or attacks, for each opponent, put a burn counter on target creature that player controls. (Damage isn&apos;t removed from creatures with burn counters on them during cleanup steps.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/254.png" num="176">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/254.png" num="177">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4770,7 +4770,7 @@ Whenever this creature enters or attacks, for each opponent, put a burn counter 
 First strike
 Blitz {1}{R}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)
 You may cast this card as though it has flash if you cast it for its blitz cost.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/255.png" num="189">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/255.png" num="190">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4787,7 +4787,7 @@ You may cast this card as though it has flash if you cast it for its blitz cost.
 		<card>
 			<name>Aerial Superiority</name>
 			<text>Destroy target artifact, enchantment, or creature with flying. Scry 1.
-Reload</text>
+Reload (You may cast this card from your graveyard by removing an unblocked attacker you control from combat in addition to paying its other costs. Then exile this card.)</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/256.png" num="210">BOO3</set>
 			<prop>
 				<layout>normal</layout>
@@ -4803,7 +4803,7 @@ Reload</text>
 		</card>
 		<card>
 			<name>BF-Class Sniper Rifle</name>
-			<text>Call to arms
+			<text>Call to arms (When this Equipment enters, you may attach it to target Soldier you control. If you don&apos;t, create a 1/1 white Soldier creature token, then attach this to it.)
 Equipped creature gets +3/+2 and has trample, reach, ward {3}, and &quot;Whenever this creature attacks, put a stun counter on it.&quot;
 Equip {2}{G}</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/257.png" num="217">BOO3</set>
@@ -4843,7 +4843,7 @@ Overload {2}{G}</text>
 		<card>
 			<name>Conformant Huntsman</name>
 			<text>Vigilance, reach
-Whenever this creature enters or attacks, destroy target complex permanent an opponent controls.</text>
+Whenever this creature enters or attacks, destroy target complex permanent an opponent controls. (Permanents with two or more permanent types are complex.)</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/259.png" num="222">BOO3</set>
 			<prop>
 				<layout>normal</layout>
@@ -4863,7 +4863,7 @@ Whenever this creature enters or attacks, destroy target complex permanent an op
 			<text>Vigilance
 When this creature dies, manifest dread. (Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)
 Encore {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/260.png" num="234">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/260.png" num="233">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4934,7 +4934,7 @@ Create The Gamma Queen, a legendary X/X black, green, and blue Avatar artifact c
 		<card>
 			<name>Persist Through Pestilence</name>
 			<text>Target creature you control gains deathtouch and indestructible until end of turn. Put a +1/+1 counter on it.
-Reload</text>
+Reload (You may cast this card from your graveyard by removing an unblocked attacker you control from combat in addition to paying its other costs. Then exile this card.)</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/264.png" num="302">BOO3</set>
 			<prop>
 				<layout>normal</layout>
@@ -5129,7 +5129,7 @@ Whenever this creature deals combat damage to a player, you may gain control of 
 			<text>This spell costs {1} less to cast for each creature on the battlefield.
 Blasphemy deals 13 damage to target creature.
 Overload {12}{R} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/275.png" num="168">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/275.png" num="169">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5147,7 +5147,7 @@ Overload {12}{R} (You may cast this spell for its overload cost. If you do, chan
 			<text>Haste
 Whenever this creature attacks, put a sauce counter on target creature defending player controls. As long as that creature has a sauce counter on it, it&apos;s goaded. (It attacks each combat if able and attacks a player other than you if able.)
 {2}, {T}, Sacrifice this creature: It deals 3 damage to each goaded creature.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/276.png" num="183">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/276.png" num="184">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5167,7 +5167,7 @@ Whenever this creature attacks, put a sauce counter on target creature defending
 When this Aura enters, untap enchanted permanent and gain control of it.
 As long as enchanted permanent is a creature, it has haste and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
 At the beginning of each player&apos;s upkeep, untap enchanted permanent. That player gains control of it.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/277.png" num="193">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/277.png" num="195">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5517,7 +5517,7 @@ Whenever an opponent activates an ability of a permanent that isn&apos;t a mana 
 			<name>Echos of Flameteaching</name>
 			<text>Exile a card from the top of your library for each mana spent to cast this spell. Until your next end step, you may play those cards. At the beginning of your next end step, if any of those cards remain exiled, Echos of Flameteaching deals damage to any target equal to 1 plus the number of cards that remain exiled.
 Flashback {1}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/296.png" num="173">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/296.png" num="174">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5535,7 +5535,7 @@ Flashback {1}{R}{R}{R} (You may cast this card from your graveyard for its flash
 			<text>Enrage — Whenever this creature enters or is dealt damage, target creature gains haste until end of turn. Put a trample counter and a spring counter on it. (A creature with spring counters has &quot;{T}: For each spring counter on this creature, add one mana of any color it is or could produce.&quot;)
 At the end of each combat on your turn, if you didn&apos;t attack with a modified creature this combat, sacrifice a permanent with a spring counter on it. (Equipment, Auras you control, and counters are modifications.)
 {1}{GW}: Untap all attacking creatures.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/297.png" num="179">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/297.png" num="180">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5554,7 +5554,7 @@ At the end of each combat on your turn, if you didn&apos;t attack with a modifie
 			<text>When this Equipment enters, attach it to target creature.
 Equipped creature gets +2/+0 and has &quot;Whenever this creature deals damage to a player, retrofit that many cards from the top of their library. During any turn a player not retrofitted for those cards attacked with a creature, that player may play cards exiled this way, and may spend mana of any type to do so.&quot; (To Retrofit, exile those cards and note those cards for that player).
 Equip {2}</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/298.png" num="192">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/298.png" num="194">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5589,7 +5589,7 @@ Whenever you attack an opponent, you may play a card you retrofitted for them. I
 			<name>Loamplate Ankylosaurus</name>
 			<text>This creature can block an additional creature each combat.
 Enrage — Whenever this creature is dealt damage, untap it. Until your next turn, it has &quot;{T}, Target creature gains absorb 5 until end of turn.&quot; (If a source would deal damage to a creature with absorb 5, prevent 5 of that damage.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/300.png" num="238">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/300.png" num="237">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5607,7 +5607,7 @@ Enrage — Whenever this creature is dealt damage, untap it. Until your next tur
 			<name>Ooze with Potential</name>
 			<text>Idealize (When you cast this, you may have target player with the highest life total gain control of it. Targets remain the same.)
 Target creature gains trample and gets +1/+1 for each creature you control until end of turn. Blight 1. (Put a -1/-1 counter on a creature you control.)</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/301.png" num="241">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/301.png" num="240">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5625,7 +5625,7 @@ Target creature gains trample and gets +1/+1 for each creature you control until
 			<text>Haste
 Parley — Whenever Pako attacks, each player reveals the top card of their library. Put a +1/+1 counter on Pako for each noncreature, nonland card revealed this way. Then each player draws a card.
 As long as you control a blue legendary creature, each player plays with the top card of their library revealed, and you may play creature cards from the top of players&apos; libraries and may spend mana as though it were of any type to do so.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/302.png" num="242">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/302.png" num="241">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5770,7 +5770,7 @@ Encore {2}{W}{W}</text>
 		<card>
 			<name>Ghost Shield</name>
 			<text>Enchant creature
-Umbra armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)
+Umbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
 Enchanted creature has vigilance and hexproof from defending players.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/310.png" num="38">BOO3</set>
 			<prop>
@@ -5900,7 +5900,7 @@ Afterlife 1 (Whenever this creature dies, create a 1/1 white and black Spirit cr
 		<card>
 			<name>Umbral Strength</name>
 			<text>Enchant creature
-Umbra armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)
+Umbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
 Enchanted creature gets +1/+1.
 At the beginning of your upkeep, if this card is in your graveyard with three or more cards above it, you may return it to the battlefield.</text>
 			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/317.png" num="160">BOO3</set>
@@ -5918,7 +5918,7 @@ At the beginning of your upkeep, if this card is in your graveyard with three or
 		</card>
 		<card>
 			<name>Ætherslinger</name>
-			<text>Assist (Another player can pay up to {X} of this spell&apos;s cost. You choose the value of X.)
+			<text>Assist (Another player can pay up to {X}{2} of this spell&apos;s cost. You choose the value of X.)
 When you cast this spell, the player that assisted you draws a card if they spent more mana to cast it than you did.
 When this creature enters, you get X {E} (energy counters).
 {R}, {E}, {T}: This creature deals 2 damage to any target.</text>
@@ -5939,7 +5939,7 @@ When this creature enters, you get X {E} (energy counters).
 		<card>
 			<name>Arcane Attendant</name>
 			<text>When this creature enters, if you&apos;re the monarch, return target instant or sorcery card from your graveyard to your hand. Otherwise, you become the monarch.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/319.png" num="165">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/319.png" num="166">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5958,7 +5958,7 @@ When this creature enters, you get X {E} (energy counters).
 			<text>This spell deals 2 damage to each opponent and each creature they control.
 Potential {WB}{WB}— If {WB}{WB} was spent to cast this spell, you gain life equal to the excess damage dealt this way. (This card&apos;s potential was realized if {W}{W}, {W}{B}, or {B}{B} was spent to cast it.)
 Fateful hour—If you have 5 or less life, this spell has deathtouch.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/320.png" num="184">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/320.png" num="185">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6276,7 +6276,7 @@ This planeswalker enters with a loyalty counter on it for each card removed from
 			<text>Flash
 Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies. Copies become tokens.)
 {R}, Sacrifice this creature: It deals 4 damage to each creature that&apos;s blocking it.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/338.png" num="180">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/338.png" num="181">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6295,7 +6295,7 @@ Storm (When you cast this spell, copy it for each spell cast before it this turn
 			<text>Whenever a creature an opponent controls enters from a graveyard, if this card is in your graveyard, return this card to your hand and put a finality counter on that creature.
 [-2]: Discard your hand, then draw two cards.
 [-4]: The Hellhound deals 5 damage to each creature.</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/339.png" num="182">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/339.png" num="183">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6328,11 +6328,11 @@ Vivoid — This creature gets +1/+1 for each color among permanents you control 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>G47 — Personal Retreat</name>
+			<name>Personal Retreat</name>
 			<text>Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 Discard a Forest card: Search your library for a nonbasic land card with the chosen name, reveal it, put it into your hand, then shuffle.
 Nonbasic lands you control with the chosen name have &quot;{T}: Add {G}.&quot;</text>
-			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/341.png" num="232">BOO3</set>
+			<set rarity="rare" picurl="https://strataboocube.github.io/sets/BOO3-files/img/341.png" num="242">BOO3</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

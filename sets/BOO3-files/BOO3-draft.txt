@@ -122,7 +122,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/11.png"
 			}
@@ -359,7 +359,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/34.png"
 			}
@@ -369,7 +369,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Squirrel Wizard",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/35.png"
 			}
@@ -379,7 +379,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Fox Knight",
-			"collector_number": "194",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/36.png"
 			}
@@ -389,7 +389,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/37.png"
 			}
@@ -569,7 +569,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/55.png"
 			}
@@ -579,7 +579,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/56.png"
 			}
@@ -826,7 +826,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/80.png"
 			}
@@ -836,7 +836,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Giant",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/81.png"
 			}
@@ -846,7 +846,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Battle Creature — Boss Demon",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/82.png"
 			}
@@ -856,7 +856,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/83.png"
 			}
@@ -866,7 +866,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "191",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/84.png"
 			}
@@ -876,7 +876,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/85.png"
 			}
@@ -1106,7 +1106,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Beast Rogue",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/108.png"
 			}
@@ -1116,7 +1116,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/109.png"
 			}
@@ -1126,7 +1126,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Attraction Dog Soldier",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/110.png"
 			}
@@ -1323,7 +1323,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Archer",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/129.png"
 			}
@@ -1333,7 +1333,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/130.png"
 			}
@@ -1353,7 +1353,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Citizen Knight",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/132.png"
 			}
@@ -1573,7 +1573,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery — Arcane",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/154.png"
 			}
@@ -1739,31 +1739,31 @@
 			}
 		},
 		{
-			"name": "R24 — Surprise Jackal!",
+			"name": "Surprise Jackal!",
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Jackal Rogue",
-			"collector_number": "195",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/171.png"
 			}
 		},
 		{
-			"name": "R29 — Angle of Attack",
+			"name": "Angle of Attack",
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/172.png"
 			}
 		},
 		{
-			"name": "R43 — Overexert",
+			"name": "Overexert",
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/173.png"
 			}
@@ -1793,7 +1793,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Spider Mutant",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/176.png"
 			}
@@ -1973,7 +1973,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Capybara Bird",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/194.png"
 			}
@@ -1983,7 +1983,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/195.png"
 			}
@@ -1993,7 +1993,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/196.png"
 			}
@@ -2013,7 +2013,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/198.png"
 			}
@@ -2023,7 +2023,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Beast Avatar",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/199.png"
 			}
@@ -2183,7 +2183,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Frog Druid",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/215.png"
 			}
@@ -2333,7 +2333,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Goat Sorcerer",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/230.png"
 			}
@@ -2343,7 +2343,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/231.png"
 			}
@@ -2601,7 +2601,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/254.png"
 			}
@@ -2611,7 +2611,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/255.png"
 			}
@@ -2661,7 +2661,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/260.png"
 			}
@@ -2811,7 +2811,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}{R}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/275.png"
 			}
@@ -2821,7 +2821,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Food Bird",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/276.png"
 			}
@@ -2831,7 +2831,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "193",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/277.png"
 			}
@@ -3021,7 +3021,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/296.png"
 			}
@@ -3031,7 +3031,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elemental Dinosuar",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/297.png"
 			}
@@ -3041,7 +3041,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "192",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/298.png"
 			}
@@ -3061,7 +3061,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/300.png"
 			}
@@ -3071,7 +3071,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/301.png"
 			}
@@ -3081,7 +3081,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Elemental Dog",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/302.png"
 			}
@@ -3251,7 +3251,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/319.png"
 			}
@@ -3261,7 +3261,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/320.png"
 			}
@@ -3441,7 +3441,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Goblin Soldier",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/338.png"
 			}
@@ -3451,7 +3451,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Planeswalker — Hellhound",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/339.png"
 			}
@@ -3467,11 +3467,11 @@
 			}
 		},
 		{
-			"name": "G47 — Personal Retreat",
+			"name": "Personal Retreat",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "232",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://strataboocube.github.io/sets/BOO3-files/img/341.png"
 			}
@@ -3837,9 +3837,9 @@
 	1 Storm Drake
 	1 Think Again
 	1 Blackleaf Cultist
-	1 R24 — Surprise Jackal!
-	1 R29 — Angle of Attack
-	1 R43 — Overexert
+	1 Surprise Jackal!
+	1 Angle of Attack
+	1 Overexert
 	1 Terra Elemental
 	1 Baloth Matriarch
 	1 Heinous Flytrap
@@ -4007,7 +4007,7 @@
 	1 Goblin Bomb Squad
 	1 The Hellhound
 	1 Dark-Matter Chromasaur
-	1 G47 — Personal Retreat
+	1 Personal Retreat
 	1 Sidra, the Python
 	1 Leyline of Lost Memories
 	1 Mesmoth
